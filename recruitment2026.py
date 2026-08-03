@@ -223,7 +223,7 @@ minors = {
         "Wealth Management Minor": WealthManagementMinor
 }
 
-college = {
+colleges = {
     "McCombs Business": McCombsSchoolofBusiness,
     "Cockrell Engineering": CockrellSchoolofEngineering,
     "College of Natural Sciences": CollegeofNaturalSciences,
@@ -257,7 +257,7 @@ def checkbox_columns(title, items, num_cols=2):
         
 selected_majors = checkbox_columns("Majors"+'\U0001F4DA', list(majors.keys()), num_cols=4)
 selected_minors = checkbox_columns("Minors"+"\U0001F4DD", list(minors.keys()), num_cols=4)
-selected_college = checkbox_columns("College/Track"+"\U0001FA7A", list(college.keys()), num_cols=4)
+selected_college = checkbox_columns("College/Track"+"\U0001FA7A", list(colleges.keys()), num_cols=4)
 #selected_hometowns = checkbox_columns("Hometowns"+"\U0001F3E0", list(hometowns.keys()), num_cols=4)
 #selected_schools = checkbox_columns("High Schools"+"\U0001F3EB", list(schools.keys()), num_cols=4)
 #selected_extras = checkbox_columns("HS Extracurriculars"+"\U0001F483", list(extras.keys()), num_cols=4)
@@ -280,8 +280,8 @@ if selected_interests:
             names = majors[interest]
         elif interest in minors:
             names = minors[interest]
-        elif interest in college:
-            names = college[interest]
+        elif interest in colleges:
+            names = colleges[interest]
         #elif interest in hometowns:
          #   names = hometowns[interest]
         #elif interest in schools:
