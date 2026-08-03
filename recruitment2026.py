@@ -223,7 +223,7 @@ minors = {
         "Wealth Management Minor": WealthManagementMinor
 }
 
-colleges = {
+college = {
     "McCombs Business": McCombsSchoolofBusiness,
     "Cockrell Engineering": CockrellSchoolofEngineering,
     "College of Natural Sciences": CollegeofNaturalSciences,
