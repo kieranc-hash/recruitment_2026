@@ -1,0 +1,268 @@
+import streamlit as st
+import math
+
+# ===== DATA====================================================================================================================================================
+Accounting=['Catherine Dooley', 'Celeste  Gutierrez', 'Madison Taylor']
+Acting=['Katelyn Quintanilla', 'Katherine Blumenschein']
+Advertising=['Abrielle Gallini', 'Annabelle Judson', 'Elyse Miller', 'Emerson Pak', 'Jazlyn Mata', 'Kate Hoog', 'Kendall Klimek', 'Macie McKie']
+Anthropology=['Zoe Veliz']
+ArtHistory=['Sofie Combs']
+ArtsandEntertainmentTechnologies=['Andrea Yu']
+Biochemistry=['Mrinali Ganta']
+Biology=['Aaleyah Lloyd', 'Audrey Cooper', 'Audrey Jones', 'Buckley Turner', 'Emmerich Benavides', 'Farrah Childs', 'Genesis Martinez', 'Izzy Davies', 'Megan Garza', 'Neela Juarez', 'Rishona Mopur', 'Sammi Gill', 'Sanya Hoskere']
+BiomedicalEngineering=['Elizabeth Porter']
+Business=['Hannah Belenkiy', 'Haylee Martin', 'Marie Jolie Day', 'Natalie Yoder', 'Olivia Alvarez', 'Sharon Yoon']
+CanfieldBusinessHonors=['Hannah Belenkiy', 'Natalie Yoder', 'Olivia Alvarez']
+ChemicalEngineering=['Katie Corbin']
+CivicsHonors=['Ella Dillinger', 'Katie Walsh']
+CommunicationandLeadership=['Annie Hoag', 'Brooke Waldman', "Delaney O'Brien", 'Emma Schneidau', 'Giada Scaramuzza', 'Jazlyn Mata']
+ComputationalEngineering=['Morgan Gaitz', 'Siri Pemberton']
+ComputerScience=['Kimia Forouzesh']
+Dance=['Amorie Erichsen', 'Ava Hodges', 'Marie Jolie Day', 'Olivia Asay']
+EarlyChildhoodEducation=['Anika Novak', 'Ella Pitts', 'Emily Bull']
+Economics=['Addie Brooks', 'Dylan Kaufman', 'Kaelyn Liu', 'Sofie Arroyo']
+ElementaryEducation=['Elena Solano']
+English=['Kaitlin Black', 'Sasha Pittsford']
+EnvironmentalEngineering=['Daisy Challoner', 'Katie Windell']
+EnvironmentalScience=['Elizabeth Perales']
+Finance=['Hannah Belenkiy', 'Laraleigh Hackerman', 'Madison Taylor', 'Natalie Yoder']
+Geography=['Skye Doughton']
+Geology=['Christa Hamlin']
+Geoscience=['Jacqueline Olivier']
+GlobalStudies=['Addison Starr']
+Government=['Anabel Precht', 'Annie Boeh', 'Arani Walton', 'Charlie Stone', 'Hannah Reilly', 'Lily Robbins', 'May Downey', 'Mia Cisneros', 'Sofia Bartkoski', 'Zoe Westbrook', 'Zoey Bustamante']
+GraphicDesign=['Natalie Juarez']
+HealthandSociety=['Bella Champion', 'Ema Avila', 'Emma Levy', 'Hazel Wells', 'Sofie Martinez']
+InternationalRelations=['Addison Starr', 'Sarah Kester', 'Sofia Bartkoski']
+Journalism=['Annie Boeh', 'Brooke Rosenberg', 'Katie Walsh', 'Parker Keston', 'Zoe Westbrook']
+Kinesiology=['Alyssa Garcia', 'Ava Hodges', 'Sarah Miller', 'Taylor McIlvain']
+LiberalArtsHonors=['Charlie Stone']
+Marketing=['Ava Dahlander']
+Mathematics=['Jennifer Rosado', 'Kimia Forouzesh']
+MechanicalEngineering=['Ollie Mae Harrison', 'Zeina Saghiyyah']
+Neuroscience=['Braeleigh Garcia', 'Caitlin Van Sant', 'Hadley Amann', 'Hannah Dollinger', 'Hasita Karthikeyan', 'Lauren Henderson']
+Nursing=['Caelyn Prochazka', 'Ema Avila', 'Hadley Amann', 'Jasmine Valdez', 'Lexie Hale', 'Maria Sepulveda', 'Ryleigh Montgomery']
+Nutrition=['Andrea Yu', 'Maria Sanchez', 'Sophie Coe']
+PhysicalCultureandSports=['Annie Bryce']
+PlanIIHonors=['Ella Dillinger']
+PoliticalCommunications=['Victoria Olivarez']
+Psychology=['Alexa Lira', 'Caroline Schulze', 'Ella Leininger', 'Josie Daik', 'Kassidy Bragg', 'Kate Neiman', 'Margot Rosenband', 'Sofia Argoti', 'Sophia Sayers', 'Taylor Jennings']
+PublicAffairs=['Drew Shelton', 'Madeline Gottemoller']
+PublicHealth=['Sophia Labazzo']
+PublicRelations=['Georgia Key', 'Kate Belman']
+RTF=['Annabelle Judson', 'Brooke Rosenberg', 'Ella Garber', 'Kate Flanery']
+Sociology=['Angie Andersen', 'Hannah Reilly']
+SpeechLanguageandHearingSciences=['Emma Levy', 'Giana Toothman', 'Molly Bogar', 'Tatum Samuels']
+SustainabilityStudies=['Kamryn Lowery']
+Theatre=['Marie Jolie Day']
+# ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
+majors = {
+        "Accounting": Accounting,
+        "Acting": Acting,
+        "Advertising": Advertising,
+        "Anthropology": Anthropology,
+        "Art History": ArtHistory,
+        "Arts and Entertainment Technologies": ArtsandEntertainmentTechnologies,
+        "Biochemistry": Biochemistry,
+        "Biology": Biology,
+        "Biomedical Engineering": BiomedicalEngineering,
+        "Business": Business,
+        "Canfield Business Honors": CanfieldBusinessHonors,
+        "Chemical Engineering": ChemicalEngineering,
+        "Civics Honors": CivicsHonors,
+        "Communication and Leadership": CommunicationandLeadership,
+        "Computational Engineering": ComputationalEngineering,
+        "Computer Science": ComputerScience,
+        "Dance": Dance,
+        "Early Childhood Education": EarlyChildhoodEducation,
+        "Economics": Economics,
+        "Elementary Education": ElementaryEducation,
+        "English": English,
+        "Environmental Engineering": EnvironmentalEngineering,
+        "Environmental Science": EnvironmentalScience,
+        "Finance": Finance,
+        "Geography": Geography,
+        "Geology": Geology,
+        "Geoscience": Geoscience,
+        "Global Studies": GlobalStudies,
+        "Government": Government,
+        "Graphic Design": GraphicDesign,
+        "Health and Society": HealthandSociety,
+        "International Relations": InternationalRelations,
+        "Journalism": Journalism,
+        "Kinesiology": Kinesiology,
+        "Liberal Arts Honors": LiberalArtsHonors,
+        "Marketing": Marketing,
+        "Mathematics": Mathematics,
+        "Mechanical Engineering": MechanicalEngineering,
+        "Neuroscience": Neuroscience,
+        "Nursing": Nursing,
+        "Nutrition": Nutrition,
+        "Physical Culture and Sports": PhysicalCultureandSports,
+        "Plan II Honors": PlanIIHonors,
+        "Political Communications": PoliticalCommunications,
+        "Psychology": Psychology,
+        "Public Affairs": PublicAffairs,
+        "Public Health": PublicHealth,
+        "Public Relations": PublicRelations,
+        "RTF": RTF,
+        "Sociology": Sociology,
+        "Speech Language and Hearing Sciences": SpeechLanguageandHearingSciences,
+        "Sustainability Studies": SustainabilityStudies,
+        "Theatre": Theatre
+}
+
+# ===== STREAMLIT USER INTERFACE ===============================================================================================================================
+st.title("Interest Finder")
+
+def checkbox_columns(title, items, num_cols=2):
+    st.markdown(f'### {title}')
+    with st.expander('Select Here', expanded=False):
+        cols = st.columns(num_cols)
+        chunk_size = math.ceil(len(items) / num_cols)
+        selected = []
+        for i, interest in enumerate(items):
+            col = cols[i // chunk_size]
+            if col.checkbox(interest):
+                selected.append(interest)
+        return selected
+
+# uncomment these as you add them back in
+        
+selected_majors = checkbox_columns("Majors"+'\U0001F4DA', list(majors.keys()), num_cols=4)
+#selected_minors = checkbox_columns("Minors"+"\U0001F4DD", list(minors.keys()), num_cols=4)
+#selected_college = checkbox_columns("College/Track"+"\U0001FA7A", list(college.keys()), num_cols=4)
+#selected_hometowns = checkbox_columns("Hometowns"+"\U0001F3E0", list(hometowns.keys()), num_cols=4)
+#selected_schools = checkbox_columns("High Schools"+"\U0001F3EB", list(schools.keys()), num_cols=4)
+#selected_extras = checkbox_columns("HS Extracurriculars"+"\U0001F483", list(extras.keys()), num_cols=4)
+#selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.keys()), num_cols=4)
+#selected_activities = checkbox_columns("Activities/Interests for Fun"+"\U0001F3C3", list(activities.keys()), num_cols=4)
+#selected_summercamps = checkbox_columns("Summer Camp"+"\U0001F525", list(summercamps.keys()), num_cols=4)
+#selected_nicheinterests = checkbox_columns("Niche Interests"+"\U0001F388", list(nicheinterests.keys()), num_cols=4)
+#selected_transfers = checkbox_columns("Transfer Students"+"\U0001F501", list(transfers.keys()), num_cols=4)
+
+selected_interests = selected_majors #+ selected_minors + selected_college + selected_hometowns + selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
+
+# ===== Matching Logic =====
+if selected_interests:
+    people_matches = {}
+
+    # Loop over all selected interests with category info
+    for interest in selected_interests:
+        # Determine which category dict it belongs to
+        if interest in majors:
+            names = majors[interest]
+        #elif interest in minors:
+         #   names = minors[interest]
+        #elif interest in college:
+         #   names = college[interest]
+        #elif interest in hometowns:
+         #   names = hometowns[interest]
+        #elif interest in schools:
+         #   names = schools[interest]
+        #elif interest in extras:
+         #   names = extras[interest]
+        #elif interest in utorgs:
+         #   names = utorgs[interest]
+        #elif interest in activities:
+         #   names = activities[interest]
+        #elif interest in summercamps:
+         #   names = summercamps[interest]
+        #elif interest in nicheinterests:
+         #   names = nicheinterests[interest]
+        #elif interest in transfers:
+         #   names = transfers[interest]
+        #else:
+         #   continue
+
+        # Store each match as a tuple (category, interest) to prevent confusion
+        for name in names:
+            if name not in people_matches:
+                people_matches[name] = set()
+            people_matches[name].add(interest)  # add the exact checkbox label
+
+    all_selected = set(selected_interests)
+    all_match = []
+    some_match = []
+    one_match = []
+
+    for person, matched_set in people_matches.items():
+        # intersection of what the person has with what was actually selected
+        matched_selected = matched_set & all_selected
+        if matched_selected == all_selected:
+            all_match.append((person, matched_selected))
+        elif len(matched_selected) > 1:
+            some_match.append((person, matched_selected))
+        elif len(matched_selected) == 1:
+            one_match.append((person, matched_selected))
+
+    # Color blues and whites #NOTE: I randomly sorted the names into blues, whites, and violets -- update these with the correct lists!
+    blue_names = ['Aaleyah Lloyd', 'Abrielle Gallini', 'Addie Brooks',
+       'Addison Starr', 'Alexa Lira', 'Alyssa Garcia', 'Amorie Erichsen',
+       'Anabel Precht', 'Andrea Yu', 'Angie Andersen', 'Anika Novak',
+       'Annabelle Judson', 'Annie Boeh', 'Annie Bryce', 'Annie Hoag',
+       'Arani Walton', 'Audrey Cooper', 'Audrey Jones', 'Ava Dahlander',
+       'Ava Hodges', 'Bella Champion', 'Braeleigh Garcia',
+       'Brooke Rosenberg', 'Brooke Waldman', 'Buckley Turner',
+       'Caelyn Prochazka', 'Caitlin Van Sant', 'Caroline Schulze',
+       'Catherine Dooley', 'Celeste  Gutierrez', 'Charlie Stone',
+       'Christa Hamlin', 'Daisy Challoner', "Delaney O'Brien",
+       'Drew Shelton', 'Dylan Kaufman', 'Elena Solano',
+       'Elizabeth Perales', 'Elizabeth Porter', 'Ella Dillinger',
+       'Ella Garber', 'Ella Leininger', 'Ella Pitts', 'Elyse Miller',
+       'Ema Avila', 'Emerson Pak', 'Emily Bull', 'Emma Levy',
+       'Emma Schneidau', 'Emmerich Benavides', 'Farrah Childs',
+       'Genesis Martinez', 'Georgia Key', 'Giada Scaramuzza',
+       'Giana Toothman', 'Hadley Amann', 'Hannah Belenkiy',
+       'Hannah Dollinger', 'Hannah Reilly', 'Hasita Karthikeyan']
+    violet_names = ['Haylee Martin', 'Hazel Wells', 'Izzy Davies',
+       'Jacqueline Olivier', 'Jasmine Valdez', 'Jazlyn Mata',
+       'Jennifer Rosado', 'Josie Daik', 'Kaelyn Liu', 'Kaitlin Black',
+       'Kamryn Lowery', 'Kassidy Bragg', 'Kate Belman', 'Kate Flanery',
+       'Kate Hoog', 'Kate Neiman', 'Katelyn Quintanilla',
+       'Katherine Blumenschein', 'Katie Corbin', 'Katie Walsh',
+       'Katie Windell', 'Kendall Klimek', 'Kimia Forouzesh',
+       'Laraleigh Hackerman', 'Lauren Henderson', 'Lexie Hale',
+       'Lily Robbins', 'Macie McKie', 'Madeline Gottemoller',
+       'Madison Taylor', 'Margot Rosenband', 'Maria Sanchez',
+       'Maria Sepulveda', 'Marie Jolie Day', 'May Downey', 'Megan Garza',
+       'Mia Cisneros', 'Molly Bogar', 'Morgan Gaitz', 'Mrinali Ganta',
+       'Natalie Juarez', 'Natalie Yoder', 'Neela Juarez',
+       'Olivia Alvarez', 'Olivia Asay', 'Ollie Mae Harrison',
+       'Parker Keston', 'Rishona Mopur', 'Ryleigh Montgomery',
+       'Sammi Gill', 'Sanya Hoskere', 'Sarah Kester', 'Sarah Miller',
+       'Sasha Pittsford', 'Sharon Yoon', 'Siri Pemberton',
+       'Skye Doughton', 'Sofia Argoti', 'Sofia Bartkoski', 'Sofie Arroyo']
+    gray_names = ['Sofie Combs', 'Sofie Martinez', 'Sophia Labazzo', 'Sophia Sayers',
+       'Sophie Coe', 'Tatum Samuels', 'Taylor Jennings',
+       'Taylor McIlvain', 'Victoria Olivarez', 'Zeina Saghiyyah',
+       'Zoe Veliz', 'Zoe Westbrook', 'Zoey Bustamante']
+    
+    def coloring(names):
+        if name in blue_names:
+            return f"<span style='color:blue'>{name}</span></b>"
+        elif name in violet_names:
+            return f"<span style='color:darkviolet'>{name}</span></b>"
+        elif name in gray_names:
+            return f"<span style='color:darkgray'>{name}</span></b>"
+        else:
+            return f"<b>{name}</b>"
+
+    #Display
+    st.subheader("✅ All Matches")
+    if all_match:
+        for name, matches in all_match:
+            colored_names = coloring(name)
+            st.markdown(f"{colored_names}: {', '.join(matches)}", unsafe_allow_html=True)
+
+    st.subheader("🔹 Some Matches")
+    if some_match:
+        for name, matches in some_match:
+            colored_names = coloring(name)
+            st.markdown(f"{colored_names}: {', '.join(matches)}", unsafe_allow_html=True)
+
+    st.subheader("⚪ One Match")
+    if one_match:
+        for name, matches in one_match:
+            colored_names = coloring(name)
+            st.markdown(f"{colored_names}: {', '.join(matches)}", unsafe_allow_html=True)
