@@ -58,52 +58,51 @@ SustainabilityStudies=['Kamryn Lowery']
 Theatre=['Marie Jolie Day']
 
 # MINORS
-Advertising=['Olivia Asay']
-AmericanSignLanguage=['Molly Bogar']
-ArtsManagementandAdministration=['Sofie Combs']
-Business=['Abrielle Gallini', 'Annie Hoag', 'Dylan Kaufman', 'Elyse Miller', 'Emma Schneidau', 'Farrah Childs', 'Georgia Key', 'Hannah Dollinger', 'Kaelyn Liu', 'Kaitlin Black', 'Kate Belman', 'Kate Hoog', 'Katelyn Quintanilla', 'Katherine Blumenschein', 'Katie Corbin', 'Kendall Klimek', 'Natalie Juarez', 'Natalie Yoder', 'Sofie Arroyo']
-BusinessAdministration=['Sophia Sayers']
-BusinessandPublicPolicy=['Katie Walsh']
-Chinese=['Kaelyn Liu']
-CommunicationStudies=['Arani Walton', 'Jennifer Rosado', 'Margot Rosenband']
-CreativeWriting=['Kaitlin Black']
-DataScience=['Emmerich Benavides']
-DesignStrategies=['Ollie Mae Harrison']
-Economics=['Jennifer Rosado']
-EducationalPsychology=['Anika Novak', 'Elena Solano', 'Ella Leininger', 'Ella Pitts', 'Sofie Martinez']
-EnergyFinance=['Laraleigh Hackerman']
-English=['Ella Garber']
-ForensicScience=['Aaleyah Lloyd', 'Ella Leininger']
-French=['Anabel Precht']
-German=['Jennifer Rosado']
-GlobalSustainabilityLeadership=["Delaney O'Brien"]
-HealthCommunications=['Caitlin Van Sant', 'Kate Neiman', 'Sofie Martinez']
-HealthcareReformandInnovation=['Hasita Karthikeyan', 'Megan Garza', 'Neela Juarez', 'Sophia Labazzo']
-History=['Mia Cisneros']
-JeffersonScholarsProgram=['Katie Windell', 'Siri Pemberton']
-Journalism=['Sasha Pittsford']
-Kinesiology=['Angie Andersen', 'Buckley Turner', 'Caroline Schulze', 'Genesis Martinez']
-LawJusticeandSociety=['Drew Shelton', 'Jazlyn Mata', 'Lily Robbins', 'Madeline Gottemoller']
-LawPolicyandEquality=['Alexa Lira']
-Marketing=['Haylee Martin']
-MediaandEntertainmentIndustries=['Katelyn Quintanilla']
-MedicalFitnessRehab=['Sarah Miller']
-MedicalSpanishCertificate=['Giana Toothman', 'Lauren Henderson']
-PatientsPractitionersandtheCulturesofCare=['Jasmine Valdez']
-Philosophy=['Anabel Precht']
-PreHealthProfessions=['Andrea Yu', 'Audrey Cooper', 'Bella Champion', 'Braeleigh Garcia', 'Buckley Turner', 'Farrah Childs', 'Hazel Wells', 'Izzy Davies', 'Lauren Henderson', 'Rishona Mopur', 'Sophie Coe']
-PreMed=['Aaleyah Lloyd', 'Buckley Turner', 'Hannah Dollinger']
-RealEstate=['Addie Brooks']
-RiskManagement=['Jennifer Rosado']
-SalesandBusinessDevelopment=['Macie McKie', 'Sofia Argoti']
-SocialandBehavioralSciences=['Charlie Stone', 'Kassidy Bragg']
-Sociology=['Skye Doughton']
-Spanish=['Addison Starr', 'Giana Toothman', 'Sofia Bartkoski']
-SportsBroadcastingandProduction=['Amorie Erichsen']
-SportsMedia=['Emerson Pak', 'Kate Hoog', 'Parker Keston']
-UTeach=['Sasha Pittsford']
-Uteach=['Elizabeth Perales']
-WealthManagement=['Hannah Belenkiy', 'Laraleigh Hackerman']
+AdvertisingMinor=['Olivia Asay']
+AmericanSignLanguageMinor=['Molly Bogar']
+ArtsManagementandAdministrationMinor=['Sofie Combs']
+BusinessAdministrationMinor=['Sophia Sayers']
+BusinessMinor=['Abrielle Gallini', 'Annie Hoag', 'Dylan Kaufman', 'Elyse Miller', 'Emma Schneidau', 'Farrah Childs', 'Georgia Key', 'Hannah Dollinger', 'Kaelyn Liu', 'Kaitlin Black', 'Kate Belman', 'Kate Hoog', 'Katelyn Quintanilla', 'Katherine Blumenschein', 'Katie Corbin', 'Kendall Klimek', 'Natalie Juarez', 'Natalie Yoder', 'Sofie Arroyo']
+BusinessandPublicPolicyMinor=['Katie Walsh']
+ChineseMinor=['Kaelyn Liu']
+CommunicationStudiesMinor=['Arani Walton', 'Jennifer Rosado', 'Margot Rosenband']
+CreativeWritingMinor=['Kaitlin Black']
+DataScienceMinor=['Emmerich Benavides']
+DesignStrategiesMinor=['Ollie Mae Harrison']
+EconomicsMinor=['Jennifer Rosado']
+EducationalPsychologyMinor=['Anika Novak', 'Elena Solano', 'Ella Leininger', 'Ella Pitts', 'Sofie Martinez']
+EnergyFinanceMinor=['Laraleigh Hackerman']
+EnglishMinor=['Ella Garber']
+ForensicScienceMinor=['Aaleyah Lloyd', 'Ella Leininger']
+FrenchMinor=['Anabel Precht']
+GermanMinor=['Jennifer Rosado']
+GlobalSustainabilityLeadershipMinor=["Delaney O'Brien"]
+HealthCommunicationsMinor=['Caitlin Van Sant', 'Kate Neiman', 'Sofie Martinez']
+HealthcareReformandInnovationMinor=['Hasita Karthikeyan', 'Megan Garza', 'Neela Juarez', 'Sophia Labazzo']
+HistoryMinor=['Mia Cisneros']
+JeffersonScholarsProgramMinor=['Katie Windell', 'Siri Pemberton']
+JournalismMinor=['Sasha Pittsford']
+KinesiologyMinor=['Angie Andersen', 'Buckley Turner', 'Caroline Schulze', 'Genesis Martinez']
+LawJusticeandSocietyMinor=['Drew Shelton', 'Jazlyn Mata', 'Lily Robbins', 'Madeline Gottemoller']
+LawPolicyandEqualityMinor=['Alexa Lira']
+MarketingMinor=['Haylee Martin']
+MediaandEntertainmentIndustriesMinor=['Katelyn Quintanilla']
+MedicalFitnessRehabMinor=['Sarah Miller']
+MedicalSpanishMinor=['Giana Toothman', 'Lauren Henderson']
+PatientsPractitionersandtheCulturesofCareMinor=['Jasmine Valdez']
+PhilosophyMinor=['Anabel Precht']
+PreHealthProfessionsMinor=['Andrea Yu', 'Audrey Cooper', 'Bella Champion', 'Braeleigh Garcia', 'Buckley Turner', 'Farrah Childs', 'Hazel Wells', 'Izzy Davies', 'Lauren Henderson', 'Rishona Mopur', 'Sophie Coe']
+PreMedMinor=['Aaleyah Lloyd', 'Buckley Turner', 'Hannah Dollinger']
+RealEstateMinor=['Addie Brooks']
+RiskManagementMinor=['Jennifer Rosado']
+SalesandBusinessDevelopmentMinor=['Macie McKie', 'Sofia Argoti']
+SocialandBehavioralSciencesMinor=['Charlie Stone', 'Kassidy Bragg']
+SociologyMinor=['Skye Doughton']
+SpanishMinor=['Addison Starr', 'Giana Toothman', 'Sofia Bartkoski']
+SportsBroadcastingandProductionMinor=['Amorie Erichsen']
+SportsMediaMinor=['Emerson Pak', 'Kate Hoog', 'Parker Keston']
+UTeachMinor=['Elizabeth Perales', 'Sasha Pittsford']
+WealthManagementMinor=['Hannah Belenkiy', 'Laraleigh Hackerman']
 
 # ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
 majors = {
@@ -163,52 +162,51 @@ majors = {
 }
 
 minors = {
-        "Advertising": Advertising,
-        "American Sign Language": AmericanSignLanguage,
-        "Arts Management and Administration": ArtsManagementandAdministration,
-        "Business": Business,
-        "Business Administration": BusinessAdministration,
-        "Business and Public Policy": BusinessandPublicPolicy,
-        "Chinese": Chinese,
-        "Communication Studies": CommunicationStudies,
-        "Creative Writing": CreativeWriting,
-        "Data Science": DataScience,
-        "Design Strategies": DesignStrategies,
-        "Economics": Economics,
-        "Educational Psychology": EducationalPsychology,
-        "Energy Finance": EnergyFinance,
-        "English": English,
-        "Forensic Science": ForensicScience,
-        "French": French,
-        "German": German,
-        "Global Sustainability Leadership": GlobalSustainabilityLeadership,
-        "Health Communications": HealthCommunications,
-        "Healthcare Reform and Innovation": HealthcareReformandInnovation,
-        "History": History,
-        "Jefferson Scholars Program": JeffersonScholarsProgram,
-        "Journalism": Journalism,
-        "Kinesiology": Kinesiology,
-        "Law Justice and Society": LawJusticeandSociety,
-        "Law Policy and Equality": LawPolicyandEquality,
-        "Marketing": Marketing,
-        "Media and Entertainment Industries": MediaandEntertainmentIndustries,
-        "Medical Fitness Rehab": MedicalFitnessRehab,
-        "Medical Spanish Certificate": MedicalSpanishCertificate,
-        "Patients Practitioners and the Cultures of Care": PatientsPractitionersandtheCulturesofCare,
-        "Philosophy": Philosophy,
-        "Pre Health Professions": PreHealthProfessions,
-        "Pre Med": PreMed,
-        "Real Estate": RealEstate,
-        "Risk Management": RiskManagement,
-        "Sales and Business Development": SalesandBusinessDevelopment,
-        "Social and Behavioral Sciences": SocialandBehavioralSciences,
-        "Sociology": Sociology,
-        "Spanish": Spanish,
-        "Sports Broadcasting and Production": SportsBroadcastingandProduction,
-        "Sports Media": SportsMedia,
-        "UTeach": UTeach,
-        "Uteach": Uteach,
-        "Wealth Management": WealthManagement
+        "Advertising Minor": AdvertisingMinor,
+        "American Sign Language Minor": AmericanSignLanguageMinor,
+        "Arts Management and Administration Minor": ArtsManagementandAdministrationMinor,
+        "Business Administration Minor": BusinessAdministrationMinor,
+        "Business Minor": BusinessMinor,
+        "Business and Public Policy Minor": BusinessandPublicPolicyMinor,
+        "Chinese Minor": ChineseMinor,
+        "Communication Studies Minor": CommunicationStudiesMinor,
+        "Creative Writing Minor": CreativeWritingMinor,
+        "Data Science Minor": DataScienceMinor,
+        "Design Strategies Minor": DesignStrategiesMinor,
+        "Economics Minor": EconomicsMinor,
+        "Educational Psychology Minor": EducationalPsychologyMinor,
+        "Energy Finance Minor": EnergyFinanceMinor,
+        "English Minor": EnglishMinor,
+        "Forensic Science Minor": ForensicScienceMinor,
+        "French Minor": FrenchMinor,
+        "German Minor": GermanMinor,
+        "Global Sustainability Leadership Minor": GlobalSustainabilityLeadershipMinor,
+        "Health Communications Minor": HealthCommunicationsMinor,
+        "Healthcare Reform and Innovation Minor": HealthcareReformandInnovationMinor,
+        "History Minor": HistoryMinor,
+        "Jefferson Scholars Program Minor": JeffersonScholarsProgramMinor,
+        "Journalism Minor": JournalismMinor,
+        "Kinesiology Minor": KinesiologyMinor,
+        "Law Justice and Society Minor": LawJusticeandSocietyMinor,
+        "Law Policy and Equality Minor": LawPolicyandEqualityMinor,
+        "Marketing Minor": MarketingMinor,
+        "Media and Entertainment Industries Minor": MediaandEntertainmentIndustriesMinor,
+        "Medical Fitness Rehab Minor": MedicalFitnessRehabMinor,
+        "Medical Spanish Minor": MedicalSpanishMinor,
+        "Patients Practitioners and the Cultures of Care Minor": PatientsPractitionersandtheCulturesofCareMinor,
+        "Philosophy Minor": PhilosophyMinor,
+        "Pre Health Professions Minor": PreHealthProfessionsMinor,
+        "Pre Med Minor": PreMedMinor,
+        "Real Estate Minor": RealEstateMinor,
+        "Risk Management Minor": RiskManagementMinor,
+        "Sales and Business Development Minor": SalesandBusinessDevelopmentMinor,
+        "Social and Behavioral Sciences Minor": SocialandBehavioralSciencesMinor,
+        "Sociology Minor": SociologyMinor,
+        "Spanish Minor": SpanishMinor,
+        "Sports Broadcasting and Production Minor": SportsBroadcastingandProductionMinor,
+        "Sports Media Minor": SportsMediaMinor,
+        "UTeach Minor": UTeachMinor,
+        "Wealth Management Minor": WealthManagementMinor
 }
 
 # ===== STREAMLIT USER INTERFACE ===============================================================================================================================
