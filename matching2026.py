@@ -2,6 +2,7 @@ import streamlit as st
 import math
 
 # ===== DATA====================================================================================================================================================
+# MAJORS
 Accounting=['Catherine Dooley', 'Celeste  Gutierrez', 'Madison Taylor']
 Acting=['Katelyn Quintanilla', 'Katherine Blumenschein']
 Advertising=['Abrielle Gallini', 'Annabelle Judson', 'Elyse Miller', 'Emerson Pak', 'Jazlyn Mata', 'Kate Hoog', 'Kendall Klimek', 'Macie McKie']
@@ -55,6 +56,55 @@ Sociology=['Angie Andersen', 'Hannah Reilly']
 SpeechLanguageandHearingSciences=['Emma Levy', 'Giana Toothman', 'Molly Bogar', 'Tatum Samuels']
 SustainabilityStudies=['Kamryn Lowery']
 Theatre=['Marie Jolie Day']
+
+# MINORS
+Advertising=['Olivia Asay']
+AmericanSignLanguage=['Molly Bogar']
+ArtsManagementandAdministration=['Sofie Combs']
+Business=['Abrielle Gallini', 'Annie Hoag', 'Dylan Kaufman', 'Elyse Miller', 'Emma Schneidau', 'Farrah Childs', 'Georgia Key', 'Hannah Dollinger', 'Kaelyn Liu', 'Kaitlin Black', 'Kate Belman', 'Kate Hoog', 'Katelyn Quintanilla', 'Katherine Blumenschein', 'Katie Corbin', 'Kendall Klimek', 'Natalie Juarez', 'Natalie Yoder', 'Sofie Arroyo']
+BusinessAdministration=['Sophia Sayers']
+BusinessandPublicPolicy=['Katie Walsh']
+Chinese=['Kaelyn Liu']
+CommunicationStudies=['Arani Walton', 'Jennifer Rosado', 'Margot Rosenband']
+CreativeWriting=['Kaitlin Black']
+DataScience=['Emmerich Benavides']
+DesignStrategies=['Ollie Mae Harrison']
+Economics=['Jennifer Rosado']
+EducationalPsychology=['Anika Novak', 'Elena Solano', 'Ella Leininger', 'Ella Pitts', 'Sofie Martinez']
+EnergyFinance=['Laraleigh Hackerman']
+English=['Ella Garber']
+ForensicScience=['Aaleyah Lloyd', 'Ella Leininger']
+French=['Anabel Precht']
+German=['Jennifer Rosado']
+GlobalSustainabilityLeadership=["Delaney O'Brien"]
+HealthCommunications=['Caitlin Van Sant', 'Kate Neiman', 'Sofie Martinez']
+HealthcareReformandInnovation=['Hasita Karthikeyan', 'Megan Garza', 'Neela Juarez', 'Sophia Labazzo']
+History=['Mia Cisneros']
+JeffersonScholarsProgram=['Katie Windell', 'Siri Pemberton']
+Journalism=['Sasha Pittsford']
+Kinesiology=['Angie Andersen', 'Buckley Turner', 'Caroline Schulze', 'Genesis Martinez']
+LawJusticeandSociety=['Drew Shelton', 'Jazlyn Mata', 'Lily Robbins', 'Madeline Gottemoller']
+LawPolicyandEquality=['Alexa Lira']
+Marketing=['Haylee Martin']
+MediaandEntertainmentIndustries=['Katelyn Quintanilla']
+MedicalFitnessRehab=['Sarah Miller']
+MedicalSpanishCertificate=['Giana Toothman', 'Lauren Henderson']
+PatientsPractitionersandtheCulturesofCare=['Jasmine Valdez']
+Philosophy=['Anabel Precht']
+PreHealthProfessions=['Andrea Yu', 'Audrey Cooper', 'Bella Champion', 'Braeleigh Garcia', 'Buckley Turner', 'Farrah Childs', 'Hazel Wells', 'Izzy Davies', 'Lauren Henderson', 'Rishona Mopur', 'Sophie Coe']
+PreMed=['Aaleyah Lloyd', 'Buckley Turner', 'Hannah Dollinger']
+RealEstate=['Addie Brooks']
+RiskManagement=['Jennifer Rosado']
+SalesandBusinessDevelopment=['Macie McKie', 'Sofia Argoti']
+SocialandBehavioralSciences=['Charlie Stone', 'Kassidy Bragg']
+Sociology=['Skye Doughton']
+Spanish=['Addison Starr', 'Giana Toothman', 'Sofia Bartkoski']
+SportsBroadcastingandProduction=['Amorie Erichsen']
+SportsMedia=['Emerson Pak', 'Kate Hoog', 'Parker Keston']
+UTeach=['Sasha Pittsford']
+Uteach=['Elizabeth Perales']
+WealthManagement=['Hannah Belenkiy', 'Laraleigh Hackerman']
+
 # ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
 majors = {
         "Accounting": Accounting,
@@ -112,6 +162,55 @@ majors = {
         "Theatre": Theatre
 }
 
+minors = {
+        "Advertising": Advertising,
+        "American Sign Language": AmericanSignLanguage,
+        "Arts Management and Administration": ArtsManagementandAdministration,
+        "Business": Business,
+        "Business Administration": BusinessAdministration,
+        "Business and Public Policy": BusinessandPublicPolicy,
+        "Chinese": Chinese,
+        "Communication Studies": CommunicationStudies,
+        "Creative Writing": CreativeWriting,
+        "Data Science": DataScience,
+        "Design Strategies": DesignStrategies,
+        "Economics": Economics,
+        "Educational Psychology": EducationalPsychology,
+        "Energy Finance": EnergyFinance,
+        "English": English,
+        "Forensic Science": ForensicScience,
+        "French": French,
+        "German": German,
+        "Global Sustainability Leadership": GlobalSustainabilityLeadership,
+        "Health Communications": HealthCommunications,
+        "Healthcare Reform and Innovation": HealthcareReformandInnovation,
+        "History": History,
+        "Jefferson Scholars Program": JeffersonScholarsProgram,
+        "Journalism": Journalism,
+        "Kinesiology": Kinesiology,
+        "Law Justice and Society": LawJusticeandSociety,
+        "Law Policy and Equality": LawPolicyandEquality,
+        "Marketing": Marketing,
+        "Media and Entertainment Industries": MediaandEntertainmentIndustries,
+        "Medical Fitness Rehab": MedicalFitnessRehab,
+        "Medical Spanish Certificate": MedicalSpanishCertificate,
+        "Patients Practitioners and the Cultures of Care": PatientsPractitionersandtheCulturesofCare,
+        "Philosophy": Philosophy,
+        "Pre Health Professions": PreHealthProfessions,
+        "Pre Med": PreMed,
+        "Real Estate": RealEstate,
+        "Risk Management": RiskManagement,
+        "Sales and Business Development": SalesandBusinessDevelopment,
+        "Social and Behavioral Sciences": SocialandBehavioralSciences,
+        "Sociology": Sociology,
+        "Spanish": Spanish,
+        "Sports Broadcasting and Production": SportsBroadcastingandProduction,
+        "Sports Media": SportsMedia,
+        "UTeach": UTeach,
+        "Uteach": Uteach,
+        "Wealth Management": WealthManagement
+}
+
 # ===== STREAMLIT USER INTERFACE ===============================================================================================================================
 st.title("Interest Finder")
 
@@ -130,7 +229,7 @@ def checkbox_columns(title, items, num_cols=2):
 # uncomment these as you add them back in
         
 selected_majors = checkbox_columns("Majors"+'\U0001F4DA', list(majors.keys()), num_cols=4)
-#selected_minors = checkbox_columns("Minors"+"\U0001F4DD", list(minors.keys()), num_cols=4)
+selected_minors = checkbox_columns("Minors"+"\U0001F4DD", list(minors.keys()), num_cols=4)
 #selected_college = checkbox_columns("College/Track"+"\U0001FA7A", list(college.keys()), num_cols=4)
 #selected_hometowns = checkbox_columns("Hometowns"+"\U0001F3E0", list(hometowns.keys()), num_cols=4)
 #selected_schools = checkbox_columns("High Schools"+"\U0001F3EB", list(schools.keys()), num_cols=4)
@@ -141,7 +240,7 @@ selected_majors = checkbox_columns("Majors"+'\U0001F4DA', list(majors.keys()), n
 #selected_nicheinterests = checkbox_columns("Niche Interests"+"\U0001F388", list(nicheinterests.keys()), num_cols=4)
 #selected_transfers = checkbox_columns("Transfer Students"+"\U0001F501", list(transfers.keys()), num_cols=4)
 
-selected_interests = selected_majors #+ selected_minors + selected_college + selected_hometowns + selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
+selected_interests = selected_majors + selected_minors #+ selected_college + selected_hometowns + selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
 
 # ===== Matching Logic =====
 if selected_interests:
@@ -152,8 +251,8 @@ if selected_interests:
         # Determine which category dict it belongs to
         if interest in majors:
             names = majors[interest]
-        #elif interest in minors:
-         #   names = minors[interest]
+        elif interest in minors:
+            names = minors[interest]
         #elif interest in college:
          #   names = college[interest]
         #elif interest in hometowns:
@@ -172,8 +271,8 @@ if selected_interests:
          #   names = nicheinterests[interest]
         #elif interest in transfers:
          #   names = transfers[interest]
-        #else:
-         #   continue
+        else:
+            continue
 
         # Store each match as a tuple (category, interest) to prevent confusion
         for name in names:
