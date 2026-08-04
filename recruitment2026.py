@@ -205,6 +205,101 @@ SpiritOrg=["Natalie Juarez", "Elizabeth Perales"]
 Student_Television=[ "Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Delaney O'Brien", "Kate Flanery", "Ella Garber", "Anabel Precht", "Brooke Rosenberg" ] 
 TexasWake=[ "Hadley Amann", "Sarah Miller"] 
 
+# MUSIC
+# MUSIC ARTISTS
+TaylorSwift=["Siri Pemberton", "Taylor McIlvain", "Anika Novak", "Lauren Henderson", "Dylan Kaufman", "Madeline Gottemoller", "Josie Daik", "Parker Keston", "Farrah Childs", "Addison Starr", "Macie McKie", "Sofie Martinez", "Caroline Schulze", "Lexie Hale", "Margot Rosenband", "Buckley Turner", "Emma Levy", "Kassidy Bragg", "Catherine Dooley", "Victoria Olivarez", "Braeleigh Garcia", "Katie Walsh", "Sammi Gill", "Kate Belman", "Paola Castillo"]
+NoahKahan=["Georgia Key", "Anika Novak", "Lauren Henderson", "Dylan Kaufman", "Annie Boeh", "Ella Dillinger", "Annie Hoag", "Ava Dahlander", "Olivia Asay", "Hasita Karthikeyan", "Kate Hoog", "Hannah Reilly", "Emma Levy", "Skye Doughton", "Margot Rosenband", "Caelyn Prochazka", "Kimia Forouzesh", "Taylor Jennings"]
+SabrinaCarpenter=["Siri Pemberton", "Taylor McIlvain", "Drew Shelton", "May Downey", "Katherine Blumenschein", "Madeline Gottemoller", "Josie Daik", "Katie Windell", "Andrea Yu", "Addie Brooks", "Annie Boeh", "Ella Pitts", "Kaitlin Black", "Buckley Turner", "Kassidy Bragg", "Braeleigh Garcia", "Charlie Stone", "Elizabeth Scull", "Katie Walsh"]
+MorganWallen=["Georgia Key", "Parker Keston", "Annabelle Judson", "Caitlin Van Sant", "Hannah Dollinger", "Emily Bull", "Hannah Belenkiy", "Celeste Gutierrez"]
+ZachBryan=[“Emmy Pak”, "Parker Keston", "Dylan Kaufman", "Natalie Yoder", "Ava Dahlander", "Margot Rosenband", "Bella Champion"]
+OliviaDean=["Hazel Wells", "Annie Boeh", "Ryleigh Montgomery", "Ava Dahlander", "Audrey Jones", "Maria Sanchez", "Hannah Reilly", "Buckley Turner", "Sharon Yoon", "Madison Taylor", "Sophia Labazzo", "Ryleigh Montgomery"]
+LanaDelRey=["Kamryn Lowery", "Ella Leininger", "Josie Daik", "Brooke Waldman", "Macie McKie", "Victoria Olivarez", "Hadley Amann", "Olivia Alvarez", "Katie Corbin", "Rishona Mopur"]
+HarryStyles=["Audrey Cooper", "Ryleigh Montgomery", "Natalie Juarez", "Olivia Asay", "Giada Scaramuzza", "Kate Hoog", "Jennifer Rosado", "Ollie Mae Harrison", "Ella Garber", "Zoe Veliz"]
+SZA=["May Downey", "Hazel Wells", "Alyssa Garcia", "Sofia Argoti", "Addison Starr", "Ema Avila", "Alexa Lira", "Elizabeth Perales", "Izzy Davies", "Annie Bryce", "Taylor Jennings", "Haylee Martin"]
+Drake=["Neela Juarez", "Alyssa Garcia", "Ema Avila", "Amorie Erichsen", "Kaelyn Liu", "Maria Sepulveda", "Annie Bryce", "Paola Castillo", "Zoey Bustamante"]
+BadBunny=["Andrea Yu", "Natalie Juarez", "Ema Avila", "Maria Sanchez", "Zoey Bustamante", "Jasmine Valdez", "Maria Sepulveda", "Paola Castillo"]
+ArianaGrande=["Taylor McIlvain", "Drew Shelton", "Ava Hodges", "Amorie Erichsen", "Kimia Forouzesh", "Rishona Mopur", "Kate Neiman", "Jasmine Valdez"]
+FleetwoodMac=["Mrinali Ganta", "Sofia Bartkoski", "Annie Hoag", "Addison Starr", "Hannah Reilly", "Elizabeth Porter", "Daisy Challoner", "Ryleigh Montgomery", "Ella Garber"]
+Hozier=["Ella Leininger", "Katie Windell", "Morgan Gaitz", "Olivia Asay", "Marie Jolie Day", "Giada Scaramuzza"]
+EllaLangley=["Georgia Key", "Celeste Gutierrez", "Elyse Miller", "Parker Keston", "Hasita Karthikeyan", "Abrielle Gallini", "Emmerich Benavides", "Annabelle Judson"]
+GracieAbrams=["Siri Pemberton", "Annie Boeh", "Lexie Hale", "Sammi Gill", "Emma Levy", "Katie Walsh"]
+TateMcRae=["May Downey", "Macie McKie", "Giada Scaramuzza", "Bella Champion", "Jazlyn Mata", "Arani Walton", "Kimia Forouzesh", "Sanya Hoskere", "Catherine Dooley"]
+TheWeeknd=[“Emmy Pak”, "Sofia Argoti", "Sammi Gill", "Sanya Hoskere", "Kate Neiman"]
+TylerChilders=["Kamryn Lowery", "Abrielle Gallini", "Emmerich Benavides", "Elizabeth Porter", "Haylee Martin"]
+ZachTop=["Celeste Gutierrez", "Sasha Pittsford", "Bella Champion"]
+LukeCombs=["Caitlin Van Sant", "Hannah Dollinger", "Haylee Martin"]
+ChrisStapleton=["Ella Leininger", "Ryleigh Montgomery", "Emily Bull", "Audrey Cooper"]
+JohnSummit=["Laraleigh Hackerman", "Natalie Juarez", "Hasita Karthikeyan", "Giana Toothman", "Elizabeth Porter", "Rishona Mopur"]
+RoleModel=["Katherine Blumenschein", "Farrah Childs", "Zoë Westbrook", "Molly Bogar", "Natalie Yoder", "Kate Hoog", "Caelyn Prochazka", "Sofia Sayers"]
+DonToliver=["Drew Shelton", "Neela Juarez", "Ava Hodges", "Jazlyn Mata", "Genesis Martinez", "Emmerich Benavides"]
+Lorde=["Sophie Coe", "Olivia Alvarez", "Kaelyn Liu", "Katelyn Quintanilla"]
+RedHotChiliPeppers=["Laraleigh Hackerman", "Marie Jolie Day"]
+TheNeighborhood=["Elyse Miller", "Hadley Amann", "Arani Walton", "Kate Flanery", "Kate Neiman", "Zoe Veliz"]
+TheBeatles=["Lee Lloyd", "Ella Garber", "Andrea Yu"]
+OliviaRodrigo=["Kaitlin Black", "Emma Schneidau", "Sophia Labazzo", "Kassidy Bragg"]
+TylerTheCreator=["Sarah Kester", "Elizabeth Perales", "Izzy Davies"]
+Adele=["Kate Belman"]
+BrunoMars=[“Emmy Pak”, "Jasmine Valdez"]
+Beyonce=["Brooke Rosenberg"]
+Rihanna=["Jasmine Valdez", "Brooke Rosenberg"]
+TameImpala=["Sofia Argoti", "Genesis Martinez", "Sophia Sayers", "Katie Corbin", "Kendall Klimek"]
+Wallows=["Christa Hamlin", "Hadley Amann", "Zoe Veliz", "Kate Flanery"]
+Djo=["Sophie Coe", "Christa Hamlin", "Ella Garber", "Kate Flanery"]
+Clairo=["Andrea Yu"]
+FrankOcean=["Ema Avila", "Zoey Bustamante"]
+ASAPRocky=["Brooke Waldman", "Ema Avila"]
+MacMiller=["Alexa Lira", "Annie Bryce"]
+KendrickLamar=["Sharon Yoon"]
+DojaCat=["Katie Corbin", "Kendall Klimek"]
+CardiB=["Alyssa Garcia"]
+PlayboiCarti=["Anabel Precht"]
+CharliXCX=["Mia Cisneros", "Genesis Martinez", "Anabel Precht"]
+KaliUchis=["Sofia Argoti"]
+Khalid=["Kaelyn Liu"]
+JustinBieber=["Celeste Gutierrez", "Laraleigh Hackerman", "Ava Hodges", "Molly Bogar", "Madison Taylor", "Jasmine Valdez"]
+MeganTheeStallion=["Sofie Combs"]
+MeganMoroney=["Sofie Martinez", "Natalie Yoder", "Bella Champion", "Emma Schneidau", "Kirra Vrzal"]
+JonPardi=["Mrinali Ganta", "Megan Garza"]
+LukeBryan=["Audrey Cooper", "Sarah Kester", "Victoria Olivarez"]
+FlatlandCavalry=["Audrey Cooper", "Audrey Jones", "Sofie Arroyo"]
+TreatyOakRevival=["Emily Bull", "Hannah Belenkiy"]
+CodyJohnson=["Caroline Schulze"]
+RandyTravis=["Sasha Pittsford"]
+HudsonWestbrook=["Sasha Pittsford", "Ella Pitts"]
+TheEagles=["Kamryn Lowery", "Megan Garza"]
+TheLumineers=["Ella Leininger", "Mrinali Ganta", "Skye Doughton", "Elena Solano"]
+MtJoy=["Skye Doughton"]
+LizzyMcAlpine=["Hazel Wells", "Annie Hoag", "Lexie Hale", "Charlie Stone"]
+ConanGray=["Ella Dillinger", "Charlie Stone"]
+Laufey=["Sofia Bartkoski", "Zeina Saghiyyah"]
+CentralCee=["Sofia Bartkoski"]
+GlassAnimals=["Zeina Saghiyyah"]
+Paramore=["Katie Windell"]
+Halsey=["Hadley Amann"]
+TheBackseatLovers=["Zoe Westbrook", "Jennifer Rosado"]
+TheCure=["Zoe Westbrook"]
+Elvis=["Brooke Waldman"]
+Oasis=["Mia Cisneros"]
+MacDeMarco=["Mia Cisneros"]
+RollingStones=["Mia Cisneros"]
+FooFighters=["Delaney O’Brien"]
+LedZeppelin=["Delaney O’Brien"]
+CharleyCrockett=["Delaney O’Brien"]
+TwentyOnePilots=["Kendall Klimek"]
+ImagineDragons=["Angie Andersen"]
+Pink=["Angie Andersen"]
+LadyGaga=["Hadley Amann"]
+Sublime=["Sarah Miller", "Paola Castillo"]
+EttaJames=["Sarah Miller"]
+NiallHoran=["Ella Pitts"]
+Kanye=["Izzy Davies"]
+DavidBowie=["Anabel Precht"]
+GloRilla=["Elizabeth Scull"]
+SiennaSpiro=["Emma Schneidau", "Elizabeth Scull"]
+The1975=["Zoe Veliz"]
+TyMyers=["Kirra Vrzal"]
+KPop=["Sofie Combs"]
+HouseMusic=["Rishona Mopur"]
 
 
 # ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
@@ -416,6 +511,100 @@ utorgs = {
     "Texas Wake": TexasWake
 }
 
+# MUSIC ARTISTS
+
+music = {
+    "Taylor Swift": TaylorSwift,
+    "Noah Kahan": NoahKahan,
+    "Sabrina Carpenter": SabrinaCarpenter,
+    "Morgan Wallen": MorganWallen,
+    "Ella Langley": EllaLangley,
+    "Zach Bryan": ZachBryan,
+    "Fleetwood Mac": FleetwoodMac,
+    "Hozier": Hozier,
+    "Gracie Abrams": GracieAbrams,
+    "Tate McRae": TateMcRae,
+    "The Weeknd": TheWeeknd,
+    "Tyler Childers": TylerChilders,
+    "Zach Top": ZachTop,
+    "Luke Combs": LukeCombs,
+    "Chris Stapleton": ChrisStapleton,
+    "John Summit": JohnSummit,
+    "Role Model": RoleModel,
+    "Don Toliver": DonToliver,
+    "Lorde": Lorde,
+    "Ariana Grande": ArianaGrande,
+    "Red Hot Chili Peppers": RedHotChiliPeppers,
+    "The Neighborhood": TheNeighborhood,
+    "The Beatles": TheBeatles,
+    "Olivia Rodrigo": OliviaRodrigo,
+    "Tyler the Creator": TylerTheCreator,
+    "Adele": Adele,
+    "Bruno Mars": BrunoMars,
+    "Beyoncé": Beyonce,
+    "Rihanna": Rihanna,
+    "Tame Impala": TameImpala,
+    "Wallows": Wallows,
+    "Djo": Djo,
+    "Clairo": Clairo,
+    "Frank Ocean": FrankOcean,
+    "ASAP Rocky": ASAPRocky,
+    "Mac Miller": MacMiller,
+    "Kendrick Lamar": KendrickLamar,
+    "Doja Cat": DojaCat,
+    "Cardi B": CardiB,
+    "Playboi Carti": PlayboiCarti,
+    "Charli XCX": CharliXCX,
+    "Kali Uchis": KaliUchis,
+    "Khalid": Khalid,
+    "Justin Bieber": JustinBieber,
+    "Megan Thee Stallion": MeganTheeStallion,
+    "Megan Moroney": MeganMoroney,
+    "Jon Pardi": JonPardi,
+    "Luke Bryan": LukeBryan,
+    "Flatland Cavalry": FlatlandCavalry,
+    "Treaty Oak Revival": TreatyOakRevival,
+    "Cody Johnson": CodyJohnson,
+    "Randy Travis": RandyTravis,
+    "Hudson Westbrook": HudsonWestbrook,
+    "The Eagles": TheEagles,
+    "The Lumineers": TheLumineers,
+    "Mt. Joy": MtJoy,
+    "Lizzy McAlpine": LizzyMcAlpine,
+    "Conan Gray": ConanGray,
+    "Laufey": Laufey,
+    "Central Cee": CentralCee,
+    "Glass Animals": GlassAnimals,
+    "NewJeans": NewJeans,
+    "Paramore": Paramore,
+    "Halsey": Halsey,
+    "Linkin Park": LinkinPark,
+    "The Backseat Lovers": TheBackseatLovers,
+    "The Cure": TheCure,
+    "Elvis": Elvis,
+    "Oasis": Oasis,
+    "Mac DeMarco": MacDeMarco,
+    "Rolling Stones": RollingStones,
+    "Foo Fighters": FooFighters,
+    "Led Zeppelin": LedZeppelin,
+    "Charley Crockett": CharleyCrockett,
+    "Twenty One Pilots": TwentyOnePilots,
+    "Imagine Dragons": ImagineDragons,
+    "P!nk": Pink,
+    "Lady Gaga": LadyGaga,
+    "Sublime": Sublime,
+    "Etta James": EttaJames,
+    "Niall Horan": NiallHoran,
+    "Kanye": Kanye,
+    "David Bowie": DavidBowie,
+    "GloRilla": GloRilla,
+    "Sienna Spiro": SiennaSpiro,
+    "The 1975": The1975,
+    "Ty Myers": TyMyers,
+    "K-Pop": KPop,
+    "House Music": HouseMusic
+}
+
 
 # ===== STREAMLIT USER INTERFACE ===============================================================================================================================
 st.title("Interest Finder")
@@ -438,7 +627,7 @@ selected_majors = checkbox_columns("Majors"+'\U0001F4DA', list(majors.keys()), n
 selected_minors = checkbox_columns("Minors"+"\U0001F4DD", list(minors.keys()), num_cols=4)
 selected_colleges = checkbox_columns("College/Track"+"\U0001FA7A", list(colleges.keys()), num_cols=4)
 selected_hometowns = checkbox_columns("Hometowns"+"\U0001F3E0", list(hometowns.keys()), num_cols=4)
-#selected_schools = checkbox_columns("High Schools"+"\U0001F3EB", list(schools.keys()), num_cols=4)
+selected_music = checkbox_columns("Music"+"\U0001F3EB", list(music.keys()), num_cols=4)
 #selected_extras = checkbox_columns("HS Extracurriculars"+"\U0001F483", list(extras.keys()), num_cols=4)
 selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.keys()), num_cols=4)
 #selected_activities = checkbox_columns("Activities/Interests for Fun"+"\U0001F3C3", list(activities.keys()), num_cols=4)
@@ -446,7 +635,7 @@ selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.ke
 #selected_nicheinterests = checkbox_columns("Niche Interests"+"\U0001F388", list(nicheinterests.keys()), num_cols=4)
 #selected_transfers = checkbox_columns("Transfer Students"+"\U0001F501", list(transfers.keys()), num_cols=4)
 
-selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_orgs #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
+selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_orgs + selected_music #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
 
 # ===== Matching Logic =====
 if selected_interests:
@@ -465,8 +654,8 @@ if selected_interests:
             names = hometowns[interest]
         elif interest in utorgs:
             names = utorgs[interest]
-        #elif interest in schools:
-         #   names = schools[interest]
+        elif interest in music:
+            names = music[interest]
         #elif interest in extras:
          #   names = extras[interest]
         #elif interest in activities:
