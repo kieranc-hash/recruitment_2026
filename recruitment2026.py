@@ -194,7 +194,7 @@ Religious=["Kamryn Lowery", "Audrey Cooper", "Sarah Kester", "Annie Boeh", "Mrin
 STEM=["Mrinali Ganta", "Farrah Childs", "Neela Juarez", "Katie Windell", "Andrea Yu", "Sophie Coe", "Morgan Gaitz", "Zeina Saghiyyah", "Lexie Hale", "Emmerich Benavides", "Sofia Argoti", "Audrey Jones", "Kimia Forouzesh", "Elizabeth Porter", "Katie Corbin", "Ollie Mae Harrison", "Hadley Amann"]
 Art=["Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Margot Rosenband", "Kate Flanery", "Ella Garber", "Delaney O’Brien", "Anabel Precht", "Brooke Rosenberg", "Katie Walsh", "Kirra Vrzal"]
 PerformingArts=["Ava Hodges", "Annie Hoag", "Olivia Asay", "Kaitlin Black", "Giana Toothman""Marie Jolie Day", "Brooke Rosenberg", "Katelyn Quintanilla"]
-Cultural=["Celeste Gutierrez", "Natalie Juarez", "Ema Avila", "Olivia Alvarez", "Kimia Forouzesh", "Andrea Yu", "Sharon Yoon", "Kaelyn Liu", "Alexa Lira"]
+CulturalOrg=["Celeste Gutierrez", "Natalie Juarez", "Ema Avila", "Olivia Alvarez", "Kimia Forouzesh", "Andrea Yu", "Sharon Yoon", "Kaelyn Liu", "Alexa Lira"]
 GovernmentOrg=["Kamryn Lowery", "Ella Leininger", "Madeline Gottemoller", "Sofia Bartkoski",  "Sofie Combs", "Lily Robbins", "Zoey Bustamante", "Katie Walsh"]
 EnvironmentalScience=["Kamryn Lowery", "Neela Juarez", "Katie Windell", "Daisy Challoner", "Elizabeth Perales"]
 SocialInterestActivism=["Sofie Combs", "Sofia Argoti", "Hannah Reilly", "Olivia Alvarez", "Emily Bull", "Zoe Veliz", "Anabel Precht", "Brooke Rosenberg"]
@@ -405,7 +405,7 @@ utorgs = {
     "Art": Art,
     "Performing Arts": PerformingArts,
     "Cultural": CulturalOrg,
-    "Government": Government,
+    "Government": GovernmentOrg,
     "Environmental Science": EnvironmentalScience,
     "Social Interest / Activism": SocialInterestActivism,
     "Volunteer": Volunteer,
