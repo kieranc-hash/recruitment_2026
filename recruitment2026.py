@@ -118,6 +118,73 @@ JacksonSchoolofGeosciences=['Christa Hamlin', 'Jacqueline Olivier']
 LBJSchoolofPublicAffairs=['Drew Shelton', 'Madeline Gottemoller']
 SchoolofCivicLeadership=['Ella Dillinger', 'Katie Walsh']
 
+# HOMETOWNS
+Austin=["Taylor McIlvain", "Sarah Kester", "Mrinali Ganta", "Brooke Waldman", "Ava Hodges", "Annabelle Judson", "Sofie Combs", "Addison Starr", "Ema Avila", "Jacqueline Olivier", "Giada Scaramuzza", "Molly Bogar", "Kaitlin Black", "Amorie Erichsen", "Lily Robbins", "Charlie Stone", "Annie Bryce", "Paola Castillo"]
+Dallas=["Lee Lloyd", "Hazel Wells", "Ava Dahlander", "Lexie Hale", "Sofia Bartkoski", "Delaney O’Brien", "Zoe Veliz", "Alexa Lira", "Kaelyn Liu"]
+Houston=["Laraleigh Hackerman", "Neela Juarez", "Josie Daik", "Annie Hoag", "Sarah Miller", "Christa Hamlin", "Zeina Saghiyyah", "Ollie Mae Harrison", "Emma Schneidau", "Anabel Precht"]
+SanAntonio=["Elyse Miller", "Elizabeth Porter", "Skye Doughton", "Kassidy Bragg", "Kate Neiman", "Kirra Vrzal"]
+SugarLand=["Farrah Childs", "Emma Levy", "Marie Jolie Day"]
+Mansfield_TX=["Georgia Key"]
+Richmond_TX=["Celeste Gutierrez", "Audrey Jones"]
+Leander_TX=["Siri Pemberton", "Kamryn Lowery", "Emmerich Benavides"]
+Buda_TX=["Drew Shelton"]
+NewBraunfels_TX=["Ella Leininger", "Braeleigh Garcia"]
+Hutto_TX=["May Downey"]
+Colleyville_TX=["Anika Novak"]
+Pearland_TX=["Audrey Cooper"]
+Galveston_TX=["Annie Boeh"]
+Keller_TX=["Lauren Henderson"]
+Friendswood_TX=["Neela Juarez", "Sammi Gill"]
+Cypress_TX=["Ryleigh Montgomery", "Morgan Gaitz"]
+Allen_TX=["Addie Brooks", "Tatum Samuels", "Hannah Dollinger", "Daisy Challoner"]
+Boerne_TX=["Ella Dillinger", "Sofie Arroyo"]
+FlowerMound_TX=["Macie McKie"]
+Atascocita_TX=["Zoe Westbrook"]
+EaglePass_TX=["Jazlyn Mata", "Ella Pitts"]
+Palestine_TX=["Sophie Coe"]
+Florence_TX=["Natalie Juarez"]
+CedarPark_TX=["Abrielle Gallini", "Sanya Hoskere"]
+Brownsville_TX=["Mia Cisneros"]
+Frisco_TX=["Caroline Schulze", "Hasita Karthikeyan"]
+Humble_TX=["Megan Garza"]
+Pottsboro_TX=["Buckley Turner"]
+Lubbock_TX=["Bella Champion", "Katelyn Quintanilla"]
+SanJuan_TX=["Sofie Martinez"]
+TheWoodlands_TX=["Arani Walton", "Olivia Alvarez", "Katie Corbin"]
+Paris_TX=["Kate Hoog"]
+Jasper_TX=["Sophia Sayers"]
+Cleburne_TX=["Angie Andersen"]
+Arlington_TX=["Kimia Forouzesh"]
+McKinney_TX=["Giana Toothman"]
+LeagueCity_TX=["Caelyn Prochazka"]
+CollegeStation_TX=["Taylor Jennings"]
+Mission_TX=["Victoria Olivarez"]
+Laredo_TX=["Jasmine Valdez", "Maria Sepulveda"]
+Grapevine_TX=["Elena Solano"]
+CarrizoSprings_TX=["Elizabeth Perales"]
+Lakeway_TX=["Ella Garber"]
+RoundRock_TX=["Zoey Bustamante", "Sharon Yoon"]
+Lufkin_TX=["Rishona Mopur"]
+SanMarcos_TX=["Elizabeth Scull"]
+Richardson_TX=["Sofia Bartkoski"]
+Rockwall_TX=["Katie Windell"]
+FortWorth_TX=["Olivia Asay", "Kate Flanery"]
+Southlake_TX=["Katherine Blumenschein"]
+Denton_TX=["Izzy Davies"]
+Brock_TX=["Sasha Pittsford"]
+California=["Emmy Pak", "Parker Keston", "Emily Bull", "Brooke Rosenberg"]
+Illinois=["Alyssa Garcia", "Natalie Yoder", "Kendall Klimek", "Hannah Belenkiy"]
+Michigan=["Hadley Amann"]
+Colorado=["Hannah Reilly"]
+Maryland=["Sofia Argoti", "Kate Belman"]
+Washington=["Caitlin Van Sant"]
+NewYork=["Dylan Kaufman", "Jennifer Rosado"]
+NewJersey=["Margot Rosenband", "Sophia Labazzo", "Katie Walsh"]
+Virginia=["Catherine Dooley"]
+Mexico=["Maria Sanchez"]
+ElPaso_TX=["Andrea Yu"]
+McAllen_TX=["Genesis Martinez", "Sofie Martinez"]
+
 
 # ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
 majors = {
@@ -240,6 +307,74 @@ colleges = {
 }
 
 
+hometowns = {
+    "Austin": Austin,
+    "Dallas": Dallas,
+    "Houston": Houston,
+    "San Antonio": SanAntonio,
+    "Allen, TX": Allen_TX,
+    "Arlington, TX": Arlington_TX,
+    "Atascocita, TX": Atascocita_TX,
+    "Boerne, TX": Boerne_TX,
+    "Brock, TX": Brock_TX,
+    "Brownsville, TX": Brownsville_TX,
+    "Buda, TX": Buda_TX,
+    "Carrizo Springs, TX": CarrizoSprings_TX,
+    "Cedar Park, TX": CedarPark_TX,
+    "Cleburne, TX": Cleburne_TX,
+    "College Station, TX": CollegeStation_TX,
+    "Colleyville, TX": Colleyville_TX,
+    "Cypress, TX": Cypress_TX,
+    "Denton, TX": Denton_TX,
+    "Eagle Pass, TX": EaglePass_TX,
+    "El Paso, TX": ElPaso_TX,
+    "Florence, TX": Florence_TX,
+    "Flower Mound, TX": FlowerMound_TX,
+    "Fort Worth, TX": FortWorth_TX,
+    "Frisco, TX": Frisco_TX,
+    "Friendswood, TX": Friendswood_TX,
+    "Galveston, TX": Galveston_TX,
+    "Grapevine, TX": Grapevine_TX,
+    "Humble, TX": Humble_TX,
+    "Hutto, TX": Hutto_TX,
+    "Jasper, TX": Jasper_TX,
+    "Keller, TX": Keller_TX,
+    "Lakeway, TX": Lakeway_TX,
+    "League City, TX": LeagueCity_TX,
+    "Leander, TX": Leander_TX,
+    "Laredo, TX": Laredo_TX,
+    "Lubbock, TX": Lubbock_TX,
+    "Lufkin, TX": Lufkin_TX,
+    "Mansfield, TX": Mansfield_TX,
+    "McAllen, TX": McAllen_TX,
+    "McKinney, TX": McKinney_TX,
+    "Mission, TX": Mission_TX,
+    "New Braunfels, TX": NewBraunfels_TX,
+    "Paris, TX": Paris_TX,
+    "Palestine, TX": Palestine_TX,
+    "Pearland, TX": Pearland_TX,
+    "Pottsboro, TX": Pottsboro_TX,
+    "Richmond, TX": Richmond_TX,
+    "Rockwall, TX": Rockwall_TX,
+    "Round Rock, TX": RoundRock_TX,
+    "San Juan, TX": SanJuan_TX,
+    "San Marcos, TX": SanMarcos_TX,
+    "Southlake, TX": Southlake_TX,
+    "Sugar Land": SugarLand,
+    "The Woodlands, TX": TheWoodlands_TX,
+    "California": California,
+    "Colorado": Colorado,
+    "Illinois": Illinois,
+    "Maryland": Maryland,
+    "Michigan": Michigan,
+    "Mexico": Mexico,
+    "New Jersey": NewJersey,
+    "New York": NewYork,
+    "Virginia": Virginia,
+    "Washington": Washington
+}
+
+
 # ===== STREAMLIT USER INTERFACE ===============================================================================================================================
 st.title("Interest Finder")
 
@@ -260,7 +395,7 @@ def checkbox_columns(title, items, num_cols=2):
 selected_majors = checkbox_columns("Majors"+'\U0001F4DA', list(majors.keys()), num_cols=4)
 selected_minors = checkbox_columns("Minors"+"\U0001F4DD", list(minors.keys()), num_cols=4)
 selected_colleges = checkbox_columns("College/Track"+"\U0001FA7A", list(colleges.keys()), num_cols=4)
-#selected_hometowns = checkbox_columns("Hometowns"+"\U0001F3E0", list(hometowns.keys()), num_cols=4)
+selected_hometowns = checkbox_columns("Hometowns"+"\U0001F3E0", list(hometowns.keys()), num_cols=4)
 #selected_schools = checkbox_columns("High Schools"+"\U0001F3EB", list(schools.keys()), num_cols=4)
 #selected_extras = checkbox_columns("HS Extracurriculars"+"\U0001F483", list(extras.keys()), num_cols=4)
 #selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.keys()), num_cols=4)
@@ -269,7 +404,7 @@ selected_colleges = checkbox_columns("College/Track"+"\U0001FA7A", list(colleges
 #selected_nicheinterests = checkbox_columns("Niche Interests"+"\U0001F388", list(nicheinterests.keys()), num_cols=4)
 #selected_transfers = checkbox_columns("Transfer Students"+"\U0001F501", list(transfers.keys()), num_cols=4)
 
-selected_interests = selected_majors + selected_minors + selected_colleges #+ selected_hometowns + selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
+selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
 
 # ===== Matching Logic =====
 if selected_interests:
@@ -284,8 +419,8 @@ if selected_interests:
             names = minors[interest]
         elif interest in colleges:
             names = colleges[interest]
-        #elif interest in hometowns:
-         #   names = hometowns[interest]
+        elif interest in hometowns:
+            names = hometowns[interest]
         #elif interest in schools:
          #   names = schools[interest]
         #elif interest in extras:
