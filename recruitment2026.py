@@ -195,12 +195,12 @@ STEM=["Mrinali Ganta", "Farrah Childs", "Neela Juarez", "Katie Windell", "Andrea
 Art=["Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Margot Rosenband", "Kate Flanery", "Ella Garber", "Delaney O’Brien", "Anabel Precht", "Brooke Rosenberg", "Katie Walsh", "Kirra Vrzal"]
 PerformingArts=["Ava Hodges", "Annie Hoag", "Olivia Asay", "Kaitlin Black", "Giana Toothman""Marie Jolie Day", "Brooke Rosenberg", "Katelyn Quintanilla"]
 Cultural=["Celeste Gutierrez", "Natalie Juarez", "Ema Avila", "Olivia Alvarez", "Kimia Forouzesh", "Andrea Yu", "Sharon Yoon", "Kaelyn Liu", "Alexa Lira"]
-Government=["Kamryn Lowery", "Ella Leininger", "Madeline Gottemoller", "Sofia Bartkoski",  "Sofie Combs", "Lily Robbins", "Zoey Bustamante", "Katie Walsh"]
+GovernmentOrg=["Kamryn Lowery", "Ella Leininger", "Madeline Gottemoller", "Sofia Bartkoski",  "Sofie Combs", "Lily Robbins", "Zoey Bustamante", "Katie Walsh"]
 EnvironmentalScience=["Kamryn Lowery", "Neela Juarez", "Katie Windell", "Daisy Challoner", "Elizabeth Perales"]
 SocialInterestActivism=["Sofie Combs", "Sofia Argoti", "Hannah Reilly", "Olivia Alvarez", "Emily Bull", "Zoe Veliz", "Anabel Precht", "Brooke Rosenberg"]
 Volunteer=["Emmy Pak", "Emily Bull", "Hazel Wells", "Ella Dillinger", "Kate Neiman"]
 Publications=["Sasha Pittsford", "Kate Belman"]
-Advertising=["Elyse Miller", "Jacqueline Olivier", "Kate Hoog", "Kendall Klimek"]
+AdvertisingOrg=["Elyse Miller", "Jacqueline Olivier", "Kate Hoog", "Kendall Klimek"]
 SpiritOrg=["Natalie Juarez", "Elizabeth Perales"]
 Student_Television=[ "Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Delaney O’Brien", "Kate Flanery", "Ella Garber", "Anabel Precht", "Brooke Rosenberg" ] 
 TexasWake=[ "Hadley Amann", "Sarah Miller"] 
@@ -404,13 +404,13 @@ utorgs = {
     "STEM": STEM,
     "Art": Art,
     "Performing Arts": PerformingArts,
-    "Cultural": Cultural,
+    "Cultural": CulturalOrg,
     "Government": Government,
     "Environmental Science": EnvironmentalScience,
     "Social Interest / Activism": SocialInterestActivism,
     "Volunteer": Volunteer,
     "Publications": Publications,
-    "Advertising": Advertising,
+    "Advertising": AdvertisingOrg,
     "Spirit Organization": SpiritOrg,
     "Student Television (TSTV/KVRX)": Student_Television,
     "Texas Wake": TexasWake,
