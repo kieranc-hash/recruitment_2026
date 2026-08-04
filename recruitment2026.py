@@ -233,7 +233,7 @@ colleges = {
     "College of Liberal Arts": CollegeofLiberalArts,
     "Education": CollegeofEducation,
     "College of Fine Arts": CollegeofFineArts,
-    "Nursing": SchoolofNursing,
+    "School of Nursing": SchoolofNursing,
     "Jackson School of Geosciences": JacksonSchoolofGeosciences,
     "LBJ School of Public Affairs": LBJSchoolofPublicAffairs,
     "School of Civic Leadership": SchoolofCivicLeadership,
