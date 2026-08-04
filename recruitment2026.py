@@ -185,6 +185,27 @@ Mexico=["Maria Sanchez"]
 ElPaso_TX=["Andrea Yu"]
 McAllen_TX=["Genesis Martinez", "Sofie Martinez"]
 
+# UT ORGANIZATIONS
+IntramuralSports=["Georgia Key", "Emmy Pak", "Drew Shelton", "Audrey Cooper", "Sarah Kester", "Lauren Henderson", "Parker Keston", "Dylan Kaufman", "Sofia Bartkoski", "Zoe Westbrook", "Sarah Miller", "Natalie Juarez", "Caroline Schulze", "Hasita Karthikeyan", "Megan Garza", "Maria Sanchez", "Bella Champion", "Daisy Challoner", "Ella Garber", "Sharon Yoon", "Annie Bryce", "Kendall Klimek", "Siri Pemberton", "Angie Andersen"]
+BusinessFinanceMarketingEconomics=["Celeste Gutierrez", "Laraleigh Hackerman", "Addie Brooks", "Macie McKie", "Olivia Asay", "Natalie Yoder", "Hasita Karthikeyan", "Margot Rosenband", "Catherine Dooley", "Emma Schneidau", "Sharon Yoon", "Madison Taylor", "Haylee Martin", "Sofie Arroyo", "Kaelyn Liu", "Hannah Belenkiy", "Marie Jolie Day"]
+PreHealth=["Audrey Cooper", "Lauren Henderson", "Farrah Childs", "Neela Juarez", "Josie Daik", "Caitlin Van Sant", "Sofie Martinez", "Tatum Samuels", "Caroline Schulze", "Hasita Karthikeyan", "Hannah Dollinger", "Megan Garza", "Lexie Hale", "Maria Sanchez", "Emmerich Benavides", "Genesis Martinez", "Elizabeth Porter", "Sammi Gill", "Caelyn Prochazka", "Taylor Jennings", "Jasmine Valdez", "Maria Sepulveda", "Hadley Amann", "Braeleigh Garcia", "Izzy Davies", "Sophia Labazzo", "Rishona Mopur", "Andrea Yu"]
+PreLaw=["Kamryn Lowery", "Drew Shelton", "Ella Leininger", "May Downey", "Sofia Bartkoski", "Addison Starr", "Mia Cisneros", "Arani Walton", "Lily Robbins", "Margot Rosenband", "Alexa Lira", "Victoria Olivarez", "Charlie Stone", "Katie Walsh", "Anabel Precht", "Zoey Bustamante"]
+Religious=["Kamryn Lowery", "Audrey Cooper", "Sarah Kester", "Annie Boeh", "Mrinali Ganta", "Farrah Childs", "Dylan Kaufman", "Ryleigh Montgomery", "Annabelle Judson", "Ella Dillinger", "Morgan Gaitz", "Ema Avila", "Christa Hamlin", "Caroline Schulze", "Hasita Karthikeyan", "Buckley Turner", "Ella Pitts",  "Kaitlin Black", "Emma Levy", "Amorie Erichsen", "Giada Scaramuzza", "Kaelyn Liu", "Annie Bryce", "Brooke Rosenberg", "Paola Castillo", "Elizabeth Scull", "Sanya Hoskere"]
+STEM=["Mrinali Ganta", "Farrah Childs", "Neela Juarez", "Katie Windell", "Andrea Yu", "Sophie Coe", "Morgan Gaitz", "Zeina Saghiyyah", "Lexie Hale", "Emmerich Benavides", "Sofia Argoti", "Audrey Jones", "Kimia Forouzesh", "Elizabeth Porter", "Katie Corbin", "Ollie Mae Harrison", "Hadley Amann"]
+Art=["Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Margot Rosenband", "Kate Flanery", "Ella Garber", "Delaney O’Brien", "Anabel Precht", "Brooke Rosenberg", "Katie Walsh", "Kirra Vrzal"]
+PerformingArts=["Ava Hodges", "Annie Hoag", "Olivia Asay", "Kaitlin Black", "Giana Toothman""Marie Jolie Day", "Brooke Rosenberg", "Katelyn Quintanilla"]
+Cultural=["Celeste Gutierrez", "Natalie Juarez", "Ema Avila", "Olivia Alvarez", "Kimia Forouzesh", "Andrea Yu", "Sharon Yoon", "Kaelyn Liu", "Alexa Lira"]
+Government=["Kamryn Lowery", "Ella Leininger", "Madeline Gottemoller", "Sofia Bartkoski",  "Sofie Combs", "Lily Robbins", "Zoey Bustamante", "Katie Walsh"]
+EnvironmentalScience=["Kamryn Lowery", "Neela Juarez", "Katie Windell", "Daisy Challoner", "Elizabeth Perales"]
+SocialInterestActivism=["Sofie Combs", "Sofia Argoti", "Hannah Reilly", "Olivia Alvarez", "Emily Bull", "Zoe Veliz", "Anabel Precht", "Brooke Rosenberg"]
+Volunteer=["Emmy Pak", "Emily Bull", "Hazel Wells", "Ella Dillinger", "Kate Neiman"]
+Publications=["Sasha Pittsford", "Kate Belman"]
+Advertising=["Elyse Miller", "Jacqueline Olivier", "Kate Hoog", "Kendall Klimek"]
+SpiritOrg=["Natalie Juarez", "Elizabeth Perales"]
+Student_Television=[ "Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Delaney O’Brien", "Kate Flanery", "Ella Garber", "Anabel Precht", "Brooke Rosenberg" ] 
+TexasWake=[ "Hadley Amann", "Sarah Miller"] 
+
+
 
 # ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
 majors = {
@@ -374,6 +395,27 @@ hometowns = {
     "Washington": Washington
 }
 
+selected_orgs = {
+    "Intramural Sports": IntramuralSports,
+    "Business / Finance / Marketing / Economics": BusinessFinanceMarketingEconomics,
+    "Pre Health": PreHealth,
+    "Pre Law": PreLaw,
+    "Religious": Religious,
+    "STEM": STEM,
+    "Art": Art,
+    "Performing Arts": PerformingArts,
+    "Cultural": Cultural,
+    "Government": Government,
+    "Environmental Science": EnvironmentalScience,
+    "Social Interest / Activism": SocialInterestActivism,
+    "Volunteer": Volunteer,
+    "Publications": Publications,
+    "Advertising": Advertising,
+    "Spirit Organization": SpiritOrg,
+    "Student Television (TSTV/KVRX)": Student_Television,
+    "Texas Wake": TexasWake,
+}
+
 
 # ===== STREAMLIT USER INTERFACE ===============================================================================================================================
 st.title("Interest Finder")
@@ -398,13 +440,13 @@ selected_colleges = checkbox_columns("College/Track"+"\U0001FA7A", list(colleges
 selected_hometowns = checkbox_columns("Hometowns"+"\U0001F3E0", list(hometowns.keys()), num_cols=4)
 #selected_schools = checkbox_columns("High Schools"+"\U0001F3EB", list(schools.keys()), num_cols=4)
 #selected_extras = checkbox_columns("HS Extracurriculars"+"\U0001F483", list(extras.keys()), num_cols=4)
-#selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.keys()), num_cols=4)
+selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.keys()), num_cols=4)
 #selected_activities = checkbox_columns("Activities/Interests for Fun"+"\U0001F3C3", list(activities.keys()), num_cols=4)
 #selected_summercamps = checkbox_columns("Summer Camp"+"\U0001F525", list(summercamps.keys()), num_cols=4)
 #selected_nicheinterests = checkbox_columns("Niche Interests"+"\U0001F388", list(nicheinterests.keys()), num_cols=4)
 #selected_transfers = checkbox_columns("Transfer Students"+"\U0001F501", list(transfers.keys()), num_cols=4)
 
-selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
+selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_orgs #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
 
 # ===== Matching Logic =====
 if selected_interests:
@@ -421,12 +463,12 @@ if selected_interests:
             names = colleges[interest]
         elif interest in hometowns:
             names = hometowns[interest]
+        elif interest in utorgs:
+            names = utorgs[interest]
         #elif interest in schools:
          #   names = schools[interest]
         #elif interest in extras:
          #   names = extras[interest]
-        #elif interest in utorgs:
-         #   names = utorgs[interest]
         #elif interest in activities:
          #   names = activities[interest]
         #elif interest in summercamps:
