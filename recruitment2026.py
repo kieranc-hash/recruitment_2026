@@ -120,10 +120,10 @@ SchoolofCivicLeadership=['Ella Dillinger', 'Katie Walsh']
 
 # HOMETOWNS
 Austin=["Taylor McIlvain", "Sarah Kester", "Mrinali Ganta", "Brooke Waldman", "Ava Hodges", "Annabelle Judson", "Sofie Combs", "Addison Starr", "Ema Avila", "Jacqueline Olivier", "Giada Scaramuzza", "Molly Bogar", "Kaitlin Black", "Amorie Erichsen", "Lily Robbins", "Charlie Stone", "Annie Bryce", "Paola Castillo"]
-Dallas=["Lee Lloyd", "Hazel Wells", "Ava Dahlander", "Lexie Hale", "Sofia Bartkoski", "Delaney O’Brien", "Zoe Veliz", "Alexa Lira", "Kaelyn Liu"]
+Dallas=["Lee Lloyd", "Hazel Wells", "Ava Dahlander", "Lexie Hale", "Sofia Bartkoski", "Delaney O'Brien", "Zoe Veliz", "Alexa Lira", "Kaelyn Liu"]
 Houston=["Laraleigh Hackerman", "Neela Juarez", "Josie Daik", "Annie Hoag", "Sarah Miller", "Christa Hamlin", "Zeina Saghiyyah", "Ollie Mae Harrison", "Emma Schneidau", "Anabel Precht"]
 SanAntonio=["Elyse Miller", "Elizabeth Porter", "Skye Doughton", "Kassidy Bragg", "Kate Neiman", "Kirra Vrzal"]
-SugarLand=["Farrah Childs", "Emma Levy", "Marie Jolie Day"]
+SugarLand_TX=["Farrah Childs", "Emma Levy", "Marie Jolie Day"]
 Mansfield_TX=["Georgia Key"]
 Richmond_TX=["Celeste Gutierrez", "Audrey Jones"]
 Leander_TX=["Siri Pemberton", "Kamryn Lowery", "Emmerich Benavides"]
@@ -192,7 +192,7 @@ PreHealth=["Audrey Cooper", "Lauren Henderson", "Farrah Childs", "Neela Juarez",
 PreLaw=["Kamryn Lowery", "Drew Shelton", "Ella Leininger", "May Downey", "Sofia Bartkoski", "Addison Starr", "Mia Cisneros", "Arani Walton", "Lily Robbins", "Margot Rosenband", "Alexa Lira", "Victoria Olivarez", "Charlie Stone", "Katie Walsh", "Anabel Precht", "Zoey Bustamante"]
 Religious=["Kamryn Lowery", "Audrey Cooper", "Sarah Kester", "Annie Boeh", "Mrinali Ganta", "Farrah Childs", "Dylan Kaufman", "Ryleigh Montgomery", "Annabelle Judson", "Ella Dillinger", "Morgan Gaitz", "Ema Avila", "Christa Hamlin", "Caroline Schulze", "Hasita Karthikeyan", "Buckley Turner", "Ella Pitts",  "Kaitlin Black", "Emma Levy", "Amorie Erichsen", "Giada Scaramuzza", "Kaelyn Liu", "Annie Bryce", "Brooke Rosenberg", "Paola Castillo", "Elizabeth Scull", "Sanya Hoskere"]
 STEM=["Mrinali Ganta", "Farrah Childs", "Neela Juarez", "Katie Windell", "Andrea Yu", "Sophie Coe", "Morgan Gaitz", "Zeina Saghiyyah", "Lexie Hale", "Emmerich Benavides", "Sofia Argoti", "Audrey Jones", "Kimia Forouzesh", "Elizabeth Porter", "Katie Corbin", "Ollie Mae Harrison", "Hadley Amann"]
-Art=["Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Margot Rosenband", "Kate Flanery", "Ella Garber", "Delaney O’Brien", "Anabel Precht", "Brooke Rosenberg", "Katie Walsh", "Kirra Vrzal"]
+Art=["Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Margot Rosenband", "Kate Flanery", "Ella Garber", "Delaney O'Brien", "Anabel Precht", "Brooke Rosenberg", "Katie Walsh", "Kirra Vrzal"]
 PerformingArts=["Ava Hodges", "Annie Hoag", "Olivia Asay", "Kaitlin Black", "Giana Toothman", "Marie Jolie Day", "Brooke Rosenberg", "Katelyn Quintanilla"]
 CulturalOrg=["Celeste Gutierrez", "Natalie Juarez", "Ema Avila", "Olivia Alvarez", "Kimia Forouzesh", "Andrea Yu", "Sharon Yoon", "Kaelyn Liu", "Alexa Lira"]
 GovernmentOrg=["Kamryn Lowery", "Ella Leininger", "Madeline Gottemoller", "Sofia Bartkoski",  "Sofie Combs", "Lily Robbins", "Zoey Bustamante", "Katie Walsh"]
@@ -202,7 +202,7 @@ Volunteer=["Emmy Pak", "Emily Bull", "Hazel Wells", "Ella Dillinger", "Kate Neim
 Publications=["Sasha Pittsford", "Kate Belman"]
 AdvertisingOrg=["Elyse Miller", "Jacqueline Olivier", "Kate Hoog", "Kendall Klimek"]
 SpiritOrg=["Natalie Juarez", "Elizabeth Perales"]
-Student_Television=[ "Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Delaney O’Brien", "Kate Flanery", "Ella Garber", "Anabel Precht", "Brooke Rosenberg" ] 
+Student_Television=[ "Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Delaney O'Brien", "Kate Flanery", "Ella Garber", "Anabel Precht", "Brooke Rosenberg" ] 
 TexasWake=[ "Hadley Amann", "Sarah Miller"] 
 
 
@@ -381,7 +381,7 @@ hometowns = {
     "San Juan, TX": SanJuan_TX,
     "San Marcos, TX": SanMarcos_TX,
     "Southlake, TX": Southlake_TX,
-    "Sugar Land": SugarLand,
+    "Sugar Land, TX": SugarLand_TX,
     "The Woodlands, TX": TheWoodlands_TX,
     "California": California,
     "Colorado": Colorado,
