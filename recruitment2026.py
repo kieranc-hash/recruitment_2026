@@ -193,10 +193,10 @@ PreLaw=["Kamryn Lowery", "Drew Shelton", "Ella Leininger", "May Downey", "Sofia 
 Religious=["Kamryn Lowery", "Audrey Cooper", "Sarah Kester", "Annie Boeh", "Mrinali Ganta", "Farrah Childs", "Dylan Kaufman", "Ryleigh Montgomery", "Annabelle Judson", "Ella Dillinger", "Morgan Gaitz", "Ema Avila", "Christa Hamlin", "Caroline Schulze", "Hasita Karthikeyan", "Buckley Turner", "Ella Pitts",  "Kaitlin Black", "Emma Levy", "Amorie Erichsen", "Giada Scaramuzza", "Kaelyn Liu", "Annie Bryce", "Brooke Rosenberg", "Paola Castillo", "Elizabeth Scull", "Sanya Hoskere"]
 STEM=["Mrinali Ganta", "Farrah Childs", "Neela Juarez", "Katie Windell", "Andrea Yu", "Sophie Coe", "Morgan Gaitz", "Zeina Saghiyyah", "Lexie Hale", "Emmerich Benavides", "Sofia Argoti", "Audrey Jones", "Kimia Forouzesh", "Elizabeth Porter", "Katie Corbin", "Ollie Mae Harrison", "Hadley Amann"]
 Art=["Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Margot Rosenband", "Kate Flanery", "Ella Garber", "Delaney O'Brien", "Anabel Precht", "Brooke Rosenberg", "Katie Walsh", "Kirra Vrzal"]
-PerformingArts=["Ava Hodges", "Annie Hoag", "Olivia Asay", "Kaitlin Black", "Giana Toothman", "Marie Jolie Day", "Brooke Rosenberg", "Katelyn Quintanilla"]
+PerformingArtsOrg=["Ava Hodges", "Annie Hoag", "Olivia Asay", "Kaitlin Black", "Giana Toothman", "Marie Jolie Day", "Brooke Rosenberg", "Katelyn Quintanilla"]
 CulturalOrg=["Celeste Gutierrez", "Natalie Juarez", "Ema Avila", "Olivia Alvarez", "Kimia Forouzesh", "Andrea Yu", "Sharon Yoon", "Kaelyn Liu", "Alexa Lira"]
 GovernmentOrg=["Kamryn Lowery", "Ella Leininger", "Madeline Gottemoller", "Sofia Bartkoski",  "Sofie Combs", "Lily Robbins", "Zoey Bustamante", "Katie Walsh"]
-EnvironmentalScience=["Kamryn Lowery", "Neela Juarez", "Katie Windell", "Daisy Challoner", "Elizabeth Perales"]
+EnvironmentalScienceOrg=["Kamryn Lowery", "Neela Juarez", "Katie Windell", "Daisy Challoner", "Elizabeth Perales"]
 SocialInterestActivism=["Sofie Combs", "Sofia Argoti", "Hannah Reilly", "Olivia Alvarez", "Emily Bull", "Zoe Veliz", "Anabel Precht", "Brooke Rosenberg"]
 Volunteer=["Emmy Pak", "Emily Bull", "Hazel Wells", "Ella Dillinger", "Kate Neiman"]
 Publications=["Sasha Pittsford", "Kate Belman"]
@@ -397,16 +397,16 @@ hometowns = {
 
 utorgs = {
     "Intramural Sports": IntramuralSports,
-    "Business / Finance / Marketing / Economics": BusinessFinanceMarketingEconomics,
+    "Business/Finance/Marketing/Economics": BusinessFinanceMarketingEconomics,
     "Pre Health": PreHealth,
     "Pre Law": PreLaw,
     "Religious": Religious,
     "STEM": STEM,
     "Art": Art,
-    "Performing Arts": PerformingArts,
+    "Performing Arts": PerformingArtsOrg,
     "Cultural": CulturalOrg,
     "Government": GovernmentOrg,
-    "Environmental Science": EnvironmentalScience,
+    "Environmental Science": EnvironmentalScienceOrg,
     "Social Interest / Activism": SocialInterestActivism,
     "Volunteer": Volunteer,
     "Publications": Publications,
