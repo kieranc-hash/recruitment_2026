@@ -413,7 +413,7 @@ utorgs = {
     "Advertising": AdvertisingOrg,
     "Spirit Organization": SpiritOrg,
     "Student Television (TSTV/KVRX)": Student_Television,
-    "Texas Wake": TexasWake,
+    "Texas Wake": TexasWake
 }
 
 
