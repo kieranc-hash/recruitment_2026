@@ -5,12 +5,13 @@ import math
 # MAJORS
 Accounting=['Catherine Dooley', 'Celeste  Gutierrez', 'Madison Taylor']
 Acting=['Katelyn Quintanilla', 'Katherine Blumenschein']
-Advertising=['Abrielle Gallini', 'Annabelle Judson', 'Elyse Miller', 'Emerson Pak', 'Jazlyn Mata', 'Kate Hoog', 'Kendall Klimek', 'Macie McKie']
+Advertising=['Abrielle Gallini', 'Annabelle Judson', 'Elyse Miller', 'Emmy Pak', 'Jazlyn Mata', 'Kate Hoog', 'Kendall Klimek', 'Macie McKie']
 Anthropology=['Zoe Veliz']
 ArtHistory=['Sofie Combs']
 ArtsandEntertainmentTechnologies=['Andrea Yu']
+BehavioralandSocialDataScience = ['Paola Castillo']
 Biochemistry=['Mrinali Ganta']
-Biology=['Aaleyah Lloyd', 'Audrey Cooper', 'Audrey Jones', 'Buckley Turner', 'Emmerich Benavides', 'Farrah Childs', 'Genesis Martinez', 'Izzy Davies', 'Megan Garza', 'Neela Juarez', 'Rishona Mopur', 'Sammi Gill', 'Sanya Hoskere']
+Biology=['Lee Lloyd', 'Audrey Cooper', 'Audrey Jones', 'Buckley Turner', 'Emmerich Benavides', 'Farrah Childs', 'Genesis Martinez', 'Izzy Davies', 'Megan Garza', 'Neela Juarez', 'Rishona Mopur', 'Sammi Gill', 'Sanya Hoskere']
 BiomedicalEngineering=['Elizabeth Porter']
 Business=['Hannah Belenkiy', 'Haylee Martin', 'Marie Jolie Day', 'Natalie Yoder', 'Olivia Alvarez', 'Sharon Yoon']
 CanfieldBusinessHonors=['Hannah Belenkiy', 'Natalie Yoder', 'Olivia Alvarez']
@@ -73,7 +74,7 @@ EconomicsMinor=['Jennifer Rosado']
 EducationalPsychologyMinor=['Anika Novak', 'Elena Solano', 'Ella Leininger', 'Ella Pitts', 'Sofie Martinez']
 EnergyFinanceMinor=['Laraleigh Hackerman']
 EnglishMinor=['Ella Garber']
-ForensicScienceMinor=['Aaleyah Lloyd', 'Ella Leininger']
+ForensicScienceMinor=['Lee Lloyd', 'Ella Leininger']
 FrenchMinor=['Anabel Precht']
 GermanMinor=['Jennifer Rosado']
 GlobalSustainabilityLeadershipMinor=["Delaney O'Brien"]
@@ -92,7 +93,7 @@ MedicalSpanishMinor=['Giana Toothman', 'Lauren Henderson']
 PatientsPractitionersandtheCulturesofCareMinor=['Jasmine Valdez']
 PhilosophyMinor=['Anabel Precht']
 PreHealthProfessionsMinor=['Andrea Yu', 'Audrey Cooper', 'Bella Champion', 'Braeleigh Garcia', 'Buckley Turner', 'Farrah Childs', 'Hazel Wells', 'Izzy Davies', 'Lauren Henderson', 'Rishona Mopur', 'Sophie Coe']
-PreMedMinor=['Aaleyah Lloyd', 'Buckley Turner', 'Hannah Dollinger']
+PreMedMinor=['Lee Lloyd', 'Buckley Turner', 'Hannah Dollinger']
 RealEstateMinor=['Addie Brooks']
 RiskManagementMinor=['Jennifer Rosado']
 SalesandBusinessDevelopmentMinor=['Macie McKie', 'Sofia Argoti']
@@ -100,7 +101,7 @@ SocialandBehavioralSciencesMinor=['Charlie Stone', 'Kassidy Bragg']
 SociologyMinor=['Skye Doughton']
 SpanishMinor=['Addison Starr', 'Giana Toothman', 'Sofia Bartkoski']
 SportsBroadcastingandProductionMinor=['Amorie Erichsen']
-SportsMediaMinor=['Emerson Pak', 'Kate Hoog', 'Parker Keston']
+SportsMediaMinor=['Emmy Pak', 'Kate Hoog', 'Parker Keston']
 UTeachMinor=['Elizabeth Perales', 'Sasha Pittsford']
 WealthManagementMinor=['Hannah Belenkiy', 'Laraleigh Hackerman']
 
@@ -108,8 +109,8 @@ WealthManagementMinor=['Hannah Belenkiy', 'Laraleigh Hackerman']
 McCombsSchoolofBusiness=['Ava Dahlander', 'Catherine Dooley', 'Celeste Gutierrez', 'Hannah Belenkiy', 'Haylee Martin', 'Kate Belman', 'Katie Corbin', 'Kendall Klimek', 'Laraleigh Hackerman', 'Madison Taylor', 'Marie Jolie Day', 'Natalie Yoder', 'Olivia Alvarez', 'Sharon Yoon']
 CockrellSchoolofEngineering=['Daisy Challoner', 'Elizabeth Porter', 'Katie Corbin', 'Katie Windell', 'Morgan Gaitz', 'Ollie Mae Harrison', 'Siri Pemberton', 'Zeina Saghiyyah']
 CollegeofNaturalSciences=['Andrea Yu', 'Audrey Cooper', 'Audrey Jones', 'Braeleigh Garcia', 'Buckley Turner', 'Caitlin Van Sant', 'Elizabeth Perales', 'Emmerich Benavides', 'Farrah Childs', 'Genesis Martinez', 'Hadley Amann', 'Hannah Dollinger', 'Hasita Karthikeyan', 'Izzy Davies', 'Jennifer Rosado', 'Kimia Forouzesh', 'Lauren Henderson', 'Lee Lloyd', 'Maria Sanchez', 'Megan Garza', 'Mrinali Ganta', 'Neela Juarez', 'Rishona Mopur', 'Sammi Gill', 'Sanya Hoskere', 'Sophia Labazzo', 'Sophie Coe']
-MoodyCollegeofCommunication=['Abrielle Gallini', 'Annabelle Judson', 'Annie Boeh', 'Annie Hoag', 'Brooke Rosenberg', 'Brooke Waldman', 'Delaney O’Brien', 'Elizabeth Scull', 'Ella Garber', 'Elyse Miller', 'Emma Levy', 'Emma Schneidau', 'Emmy Pak', 'Georgia Key', 'Giada Scaramuzza', 'Giana Toothman', 'Jazlyn Mata', 'Kate Belman', 'Kate Flanery', 'Kate Hoog', 'Katie Walsh', 'Kendall Klimek', 'Kirra Vrzal', 'Macie McKie', 'Molly Bogar', 'Parker Keston', 'Tatum Samuels', 'Victoria Olivarez', 'Zoë Westbrook']
-CollegeofLiberalArts=['Addie Brooks', 'Addison Starr', 'Alexa Lira', 'Angie Andersen', 'Annie Boeh', 'Arani Walton', 'Bella Champion', 'Caroline Schulze', 'Charlie Stone', 'Dylan Kaufman', 'Ella Leininger', 'Ema Avila', 'Emma Levy', 'Hannah Reilly', 'Hazel Wells', 'Josie Daik', 'Kaelyn Liu', 'Kaitlin Black', 'Kamryn Lowery', 'Kassidy', 'Lily Robbins', 'Margot Rosenband', 'May Downey', 'Mia Cisneros', 'Paola Castillo', 'Sarah Kester', 'Sasha Pittsford', 'Skye Doughton', 'Sofia Argoti', 'Sofia Bartkoski', 'Sofie Arroyo', 'Sofie Martinez', 'Sophia Sayers', 'Taylor Jennings', 'Zoe Veliz', 'Zoey Bustamante', 'Zoë Westbrook', 'Anabel Precht']
+MoodyCollegeofCommunication=['Abrielle Gallini', 'Annabelle Judson', 'Annie Boeh', 'Annie Hoag', 'Brooke Rosenberg', 'Brooke Waldman', "Delaney O’Brien", 'Elizabeth Scull', 'Ella Garber', 'Elyse Miller', 'Emma Levy', 'Emma Schneidau', 'Emmy Pak', 'Georgia Key', 'Giada Scaramuzza', 'Giana Toothman', 'Jazlyn Mata', 'Kate Belman', 'Kate Flanery', 'Kate Hoog', 'Katie Walsh', 'Kendall Klimek', 'Kirra Vrzal', 'Macie McKie', 'Molly Bogar', 'Parker Keston', 'Tatum Samuels', 'Victoria Olivarez', 'Zoe Westbrook']
+CollegeofLiberalArts=['Addie Brooks', 'Addison Starr', 'Alexa Lira', 'Angie Andersen', 'Annie Boeh', 'Arani Walton', 'Bella Champion', 'Caroline Schulze', 'Charlie Stone', 'Dylan Kaufman', 'Ella Leininger', 'Ema Avila', 'Emma Levy', 'Hannah Reilly', 'Hazel Wells', 'Josie Daik', 'Kaelyn Liu', 'Kaitlin Black', 'Kamryn Lowery', 'Kassidy Bragg', 'Lily Robbins', 'Margot Rosenband', 'May Downey', 'Mia Cisneros', 'Paola Castillo', 'Sarah Kester', 'Sasha Pittsford', 'Skye Doughton', 'Sofia Argoti', 'Sofia Bartkoski', 'Sofie Arroyo', 'Sofie Martinez', 'Sophia Sayers', 'Taylor Jennings', 'Zoe Veliz', 'Zoey Bustamante', 'Zoe Westbrook', 'Anabel Precht']
 CollegeofEducation=['Alyssa Garcia', 'Anika Novak', 'Annie Bryce', 'Ella Pitts', 'Sarah Miller', 'Taylor McIlvain', 'Elena Solano', 'Emily Bull']
 CollegeofFineArts=['Amorie Erichsen', 'Ava Hodges', 'Kate Neiman', 'Katelyn Quintanilla', 'Katherine Blumenschein', 'Macie McKie', 'Marie Jolie Day', 'Natalie Juarez', 'Olivia Asay', 'Sofie Combs']
 SchoolofNursing=['Caelyn Prochazka', 'Ema Avila', 'Jasmine Valdez', 'Lexie Hale', 'Maria Sepulveda', 'Ryleigh Montgomery']
@@ -126,6 +127,7 @@ majors = {
         "Anthropology": Anthropology,
         "Art History": ArtHistory,
         "Arts and Entertainment Technologies": ArtsandEntertainmentTechnologies,
+        "Behavioral + Social Data Science": BehavioralandSocialDataScience,
         "Biochemistry": Biochemistry,
         "Biology": Biology,
         "Biomedical Engineering": BiomedicalEngineering,
@@ -323,7 +325,7 @@ if selected_interests:
             one_match.append((person, matched_selected))
 
     # Color blues and whites #NOTE: I randomly sorted the names into blues, whites, and violets -- update these with the correct lists!
-    blue_names = ['Aaleyah Lloyd', 'Abrielle Gallini', 'Addie Brooks',
+    blue_names = ['Lee Lloyd', 'Abrielle Gallini', 'Addie Brooks',
        'Addison Starr', 'Alexa Lira', 'Alyssa Garcia', 'Amorie Erichsen',
        'Anabel Precht', 'Andrea Yu', 'Angie Andersen', 'Anika Novak',
        'Annabelle Judson', 'Annie Boeh', 'Annie Bryce', 'Annie Hoag',
@@ -336,7 +338,7 @@ if selected_interests:
        'Drew Shelton', 'Dylan Kaufman', 'Elena Solano',
        'Elizabeth Perales', 'Elizabeth Porter', 'Ella Dillinger',
        'Ella Garber', 'Ella Leininger', 'Ella Pitts', 'Elyse Miller',
-       'Ema Avila', 'Emerson Pak', 'Emily Bull', 'Emma Levy',
+       'Ema Avila', 'Emmy Pak', 'Emily Bull', 'Emma Levy',
        'Emma Schneidau', 'Emmerich Benavides', 'Farrah Childs',
        'Genesis Martinez', 'Georgia Key', 'Giada Scaramuzza',
        'Giana Toothman', 'Hadley Amann', 'Hannah Belenkiy',
