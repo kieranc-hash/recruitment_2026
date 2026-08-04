@@ -574,7 +574,6 @@ music = {
     "Laufey": Laufey,
     "Central Cee": CentralCee,
     "Glass Animals": GlassAnimals,
-    "NewJeans": NewJeans,
     "Paramore": Paramore,
     "Halsey": Halsey,
     "Linkin Park": LinkinPark,
