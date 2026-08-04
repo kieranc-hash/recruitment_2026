@@ -395,7 +395,7 @@ hometowns = {
     "Washington": Washington
 }
 
-selected_orgs = {
+utorgs = {
     "Intramural Sports": IntramuralSports,
     "Business / Finance / Marketing / Economics": BusinessFinanceMarketingEconomics,
     "Pre Health": PreHealth,
