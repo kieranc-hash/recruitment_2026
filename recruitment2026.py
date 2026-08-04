@@ -576,7 +576,6 @@ music = {
     "Glass Animals": GlassAnimals,
     "Paramore": Paramore,
     "Halsey": Halsey,
-    "Linkin Park": LinkinPark,
     "The Backseat Lovers": TheBackseatLovers,
     "The Cure": TheCure,
     "Elvis": Elvis,
