@@ -354,6 +354,127 @@ YoungLifeCrookedCreek=['Giada Scaramuzza']
 YoungLifeLoneHollowRanch=['Giada Scaramuzza']
 YoungLifeWilderness=['Giada Scaramuzza']
 
+# BOOKS
+NineteenEightyFour=['Aaleyah Lloyd', 'Ella Dillinger', 'Elyse Miller']
+ALittleLife=['Ella Garber', 'Ollie Mae Harrison', 'Sofia Bartkoski', 'Zoe Westbrook']
+ASeriesofUnfortunateEvents=['Sophia Sayers']
+AThousandSplendidSuns=['Olivia Alvarez', 'Taylor Jennings']
+ACOTAR=['Drew Shelton', 'Kate Neiman', 'Katie Windell']
+AbbyJimenez=['Kassidy Bragg']
+AmericanDirt=['Natalie Yoder']
+AnimalFarm=['Ella Dillinger']
+Anythingfantasy=['Giana Toothman']
+Anythingthrillingmystery=['Madison Taylor']
+AtomicHabits=['Buckley Turner']
+BeachRead=['Daisy Challoner', 'Morgan Gaitz']
+BeforetheCoffeeGetsCold=['Zeina Saghiyyah']
+BetterThantheMovies=['Arani Walton', 'Kamryn Lowery']
+Binding13=['Daisy Challoner', 'Kaitlin Black', 'Sofia Argoti']
+BoysofTommenSeries=['Sofia Argoti']
+CallItWhatYouWant=['Arani Walton']
+CallMeByYourName=['Zoe Westbrook']
+ChristianLivingBooks=['Ava Dahlander']
+Circe=['Kate Flanery']
+ConversationswithFriends=['Sofia Argoti']
+DaisyJonesandTheSix=['Dylan Kaufman', 'Hazel Wells']
+EmilyHenry=['Kassidy Bragg', 'Ollie Mae Harrison', 'Parker Keston']
+Emma=['Mia Cisneros']
+EverythingIKnowAboutLove=['Marie Jolie Day']
+Fahrenheit451=['Katherine Blumenschein']
+Float=['Zoe Veliz']
+FourthWing=['Abrielle Gallini', 'Anika Novak', 'Kate Neiman', 'Ryleigh Montgomery', 'Sophie Coe']
+FreidaMcFadden=['Emma Schneidau', 'Zoey Bustamante']
+GiovannisRoom=['Lily Robbins']
+GodoftheWoods=['Lauren Henderson']
+GreatBigBeautifulLife=['Anabel Precht', 'Haylee Martin']
+HappyPlace=['Hannah Reilly']
+HarryPotter=['Addison Starr', 'Drew Shelton', 'Giada Scaramuzza', 'Marie Jolie Day', 'Neela Juarez', 'Siri Pemberton', 'Victoria Olivarez']
+HeatedRivalry=['Annie Hoag', 'Caelyn Prochazka', 'Molly Bogar']
+IfOnlyIHadToldHim=['Bella Champion']
+ImGladMyMomDied=['Brooke Rosenberg', 'Olivia Alvarez']
+It=['Aaleyah Lloyd']
+JaneAusten=['Abrielle Gallini', 'Neela Juarez']
+Keeping13=['Jennifer Rosado', 'Kaitlin Black']
+LessonsinChemistry=['Zeina Saghiyyah']
+LittleWomen=['Lily Robbins']
+LookingforAlaska=['Katie Walsh']
+LoveandGelato=['Kaelyn Liu']
+MeetMeattheLake=['Maria Sanchez']
+MenWhoHateWomen=['Zeina Saghiyyah']
+Misery=['Elyse Miller']
+NormalPeople=['Andrea Yu', 'Hannah Reilly', 'Maria Sanchez']
+NotesonanExecution=['Lauren Henderson']
+OffCampusSeries=['Daisy Challoner', 'Ryleigh Montgomery']
+OneDayinDecember=['Katie Walsh']
+OneLastStop=['Annie Hoag']
+PeopleWeMeetonVacation=['Anika Novak']
+PercyJackson=['Jennifer Rosado', 'Victoria Olivarez']
+Powerless=['Sophia Sayers']
+PrideandPrejudice=['Addison Starr', 'Anabel Precht', 'Mia Cisneros', 'Zoe Veliz']
+ReadyPlayerOne=['Brooke Rosenberg']
+RedQueenSeries=['Taylor McIlvain']
+RedRising=['Katie Windell']
+RedWhiteandRoyalBlue=['Morgan Gaitz']
+RomCombooks=['Sofia Bartkoski']
+Romancebooks=['Sofie Combs']
+ShatterMe=['Braeleigh Garcia']
+SixofCrows=['Annie Hoag', 'Braeleigh Garcia']
+SlowDaysFastCompany=['Ella Garber']
+StephenKing=['Hannah Dollinger']
+SylviaPlath=['Lily Robbins']
+TheAlchemist=['Mia Cisneros']
+TheConditionsofWill=['Molly Bogar']
+TheCrimsonMoth=['Macie McKie']
+TheCruelPrince=['Macie McKie']
+TheDeal=['Arani Walton', 'Kamryn Lowery', 'Marie Jolie Day']
+TheDinnerList=['Hasita Karthikeyan']
+TheFaultinOurStars=['Dylan Kaufman']
+TheFinalGirlSupportGroup=['Madison Taylor']
+TheGiver=['Sharon Yoon', 'Siri Pemberton']
+TheGlassCastle=['Molly Bogar']
+TheGoldfinch=['Kate Flanery']
+TheGreatAlone=['Audrey Jones', 'Kaitlin Black']
+TheGreatGatsby=['Hasita Karthikeyan', 'Morgan Gaitz', 'Neela Juarez']
+TheHungerGames=['Brooke Rosenberg', 'Ella Dillinger', 'Hannah Reilly', 'Hasita Karthikeyan', 'Hazel Wells', 'Kaelyn Liu', 'Katherine Blumenschein', 'Ollie Mae Harrison', 'Sasha Pittsford', 'Sharon Yoon', 'Zoe Westbrook']
+TheInvisibleLifeofAddieLarue=['Abrielle Gallini']
+TheKnightandtheMoth=['Haylee Martin']
+TheLastOlympian=['Katherine Blumenschein']
+TheLetThemTheory=['Maria Sanchez']
+TheMillontheFloss=['Sasha Pittsford']
+TheNightingale=['Kaitlin Black']
+TheOutsiders=['Buckley Turner']
+ThePerksofBeingaWallflower=['Aaleyah Lloyd', 'Caelyn Prochazka', 'Zoe Veliz']
+ThePosoinnwoodBible=['Madison Taylor']
+TheSecretHistory=['Anabel Precht', 'Sofia Bartkoski']
+TheSecretLifeofBees=['Olivia Alvarez']
+TheSelection=['Kaelyn Liu']
+TheSevenHusbandsofEvelynHugo=['Addison Starr', 'Dylan Kaufman', 'Kate Belman', 'Katie Walsh', 'Parker Keston', 'Siri Pemberton', 'Sophie Coe']
+TheShinning=['Elyse Miller']
+TheSilentPatient=['Kate Neiman', 'Taylor Jennings']
+TheStand=['Ella Garber']
+TheSummerITurnedPretty=['Bella Champion', 'Kamryn Lowery', 'Margot Rosenband', 'Sammi Gill']
+TheSummerofBrokenRules=['Sharon Yoon']
+TheTattooist=['Sarah Miller']
+TheUnmakingofJuneFarrow=['Macie McKie']
+TheVanishingHalf=['Natalie Yoder']
+TheWallofWinnipegandMe=['Jennifer Rosado']
+ThingsWeNeverGotOver=['Haylee Martin']
+ThroneofGlass=['Drew Shelton', 'Kate Flanery', 'Katie Windell', 'Sophie Coe']
+TinyBeautifulThings=['Caelyn Prochazka']
+ToAlltheBoysIveLovedBefore=['Sasha Pittsford']
+ToKillaMockingbird=['Audrey Jones', 'Natalie Yoder']
+TuesdayswithMorrie=['Lauren Henderson']
+TwilightSaga=['Braeleigh Garcia']
+UglyLove=['Sarah Miller']
+Verity=['Sarah Miller']
+WeHaveAlwaysLivedintheCastle=['Lily Robbins']
+WheretheCrawdadsSing=['Audrey Jones']
+WideSargassoSea=['Hazel Wells']
+WindyCitySeries=['Buckley Turner', 'Ryleigh Montgomery']
+Wonder=['Margot Rosenband', 'Sophia Sayers']
+WutheringHeights=['Anika Novak', 'Bella Champion', 'Margot Rosenband']
+YouAreaBadass=['Sofia Argoti']
+
 
 # ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
 majors = {
@@ -710,6 +831,128 @@ summercamps = {
         "YoungLife Lone Hollow Ranch": YoungLifeLoneHollowRanch,
         "YoungLife Wilderness": YoungLifeWilderness
 
+books = {
+        "1984": NineteenEightyFour,
+        "A Little Life": ALittleLife,
+        "A Series of Unfortunate Events": ASeriesofUnfortunateEvents,
+        "A Thousand Splendid Suns": AThousandSplendidSuns,
+        "ACOTAR": ACOTAR,
+        "Abby Jimenez": AbbyJimenez,
+        "American Dirt": AmericanDirt,
+        "Animal Farm": AnimalFarm,
+        "Anything fantasy": Anythingfantasy,
+        "Anything thrilling/mystery": Anythingthrillingmystery,
+        "Atomic Habits": AtomicHabits,
+        "Beach Read": BeachRead,
+        "Before the Coffee Gets Cold": BeforetheCoffeeGetsCold,
+        "Better Than the Movies": BetterThantheMovies,
+        "Binding 13": Binding13,
+        "Boys of Tommen Series": BoysofTommenSeries,
+        "Call It What You Want": CallItWhatYouWant,
+        "Call Me By Your Name": CallMeByYourName,
+        "Christian Living Books": ChristianLivingBooks,
+        "Circe": Circe,
+        "Conversations with Friends": ConversationswithFriends,
+        "Daisy Jones and The Six": DaisyJonesandTheSix,
+        "Emily Henry": EmilyHenry,
+        "Emma": Emma,
+        "Everything I Know About Love": EverythingIKnowAboutLove,
+        "Fahrenheit 451": Fahrenheit451,
+        "Float": Float,
+        "Fourth Wing": FourthWing,
+        "Freida McFadden": FreidaMcFadden,
+        "Giovannis Room": GiovannisRoom,
+        "God of the Woods": GodoftheWoods,
+        "Great Big Beautiful Life": GreatBigBeautifulLife,
+        "Happy Place": HappyPlace,
+        "Harry Potter": HarryPotter,
+        "Heated Rivalry": HeatedRivalry,
+        "If Only I Had Told Him": IfOnlyIHadToldHim,
+        "Im Glad My Mom Died": ImGladMyMomDied,
+        "It": It,
+        "Jane Austen": JaneAusten,
+        "Keeping 13": Keeping13,
+        "Lessons in Chemistry": LessonsinChemistry,
+        "Little Women": LittleWomen,
+        "Looking for Alaska": LookingforAlaska,
+        "Love and Gelato": LoveandGelato,
+        "Meet Me at the Lake": MeetMeattheLake,
+        "Men Who Hate Women": MenWhoHateWomen,
+        "Misery": Misery,
+        "Normal People": NormalPeople,
+        "Notes on an Execution": NotesonanExecution,
+        "Off Campus Series": OffCampusSeries,
+        "One Day in December": OneDayinDecember,
+        "One Last Stop": OneLastStop,
+        "People We Meet on Vacation": PeopleWeMeetonVacation,
+        "Percy Jackson": PercyJackson,
+        "Powerless": Powerless,
+        "Pride and Prejudice": PrideandPrejudice,
+        "Ready Player One": ReadyPlayerOne,
+        "Red Queen Series": RedQueenSeries,
+        "Red Rising": RedRising,
+        "Red White and Royal Blue": RedWhiteandRoyalBlue,
+        "Rom Com books": RomCombooks,
+        "Romance books": Romancebooks,
+        "Shatter Me": ShatterMe,
+        "Six of Crows": SixofCrows,
+        "Slow Days Fast Company": SlowDaysFastCompany,
+        "Stephen King": StephenKing,
+        "Sylvia Plath": SylviaPlath,
+        "The Alchemist": TheAlchemist,
+        "The Conditions of Will": TheConditionsofWill,
+        "The Crimson Moth": TheCrimsonMoth,
+        "The Cruel Prince": TheCruelPrince,
+        "The Deal": TheDeal,
+        "The Dinner List": TheDinnerList,
+        "The Fault in Our Stars": TheFaultinOurStars,
+        "The Final Girl Support Group": TheFinalGirlSupportGroup,
+        "The Giver": TheGiver,
+        "The Glass Castle": TheGlassCastle,
+        "The Goldfinch": TheGoldfinch,
+        "The Great Alone": TheGreatAlone,
+        "The Great Gatsby": TheGreatGatsby,
+        "The Hunger Games": TheHungerGames,
+        "The Invisible Life of Addie Larue": TheInvisibleLifeofAddieLarue,
+        "The Knight and the Moth": TheKnightandtheMoth,
+        "The Last Olympian": TheLastOlympian,
+        "The Let Them Theory": TheLetThemTheory,
+        "The Mill on the Floss": TheMillontheFloss,
+        "The Nightingale": TheNightingale,
+        "The Outsiders": TheOutsiders,
+        "The Perks of Being a Wallflower": ThePerksofBeingaWallflower,
+        "The Posoinnwood Bible": ThePosoinnwoodBible,
+        "The Secret History": TheSecretHistory,
+        "The Secret Life of Bees": TheSecretLifeofBees,
+        "The Selection": TheSelection,
+        "The Seven Husbands of Evelyn Hugo": TheSevenHusbandsofEvelynHugo,
+        "The Shinning": TheShinning,
+        "The Silent Patient": TheSilentPatient,
+        "The Stand": TheStand,
+        "The Summer I Turned Pretty": TheSummerITurnedPretty,
+        "The Summer of Broken Rules": TheSummerofBrokenRules,
+        "The Tattooist": TheTattooist,
+        "The Unmaking of June Farrow": TheUnmakingofJuneFarrow,
+        "The Vanishing Half": TheVanishingHalf,
+        "The Wall of Winnipeg and Me": TheWallofWinnipegandMe,
+        "Things We Never Got Over": ThingsWeNeverGotOver,
+        "Throne of Glass": ThroneofGlass,
+        "Tiny Beautiful Things": TinyBeautifulThings,
+        "To All the Boys Ive Loved Before": ToAlltheBoysIveLovedBefore,
+        "To Kill a Mockingbird": ToKillaMockingbird,
+        "Tuesdays with Morrie": TuesdayswithMorrie,
+        "Twilight Saga": TwilightSaga,
+        "Ugly Love": UglyLove,
+        "Verity": Verity,
+        "We Have Always Lived in the Castle": WeHaveAlwaysLivedintheCastle,
+        "Where the Crawdads Sing": WheretheCrawdadsSing,
+        "Wide Sargasso Sea": WideSargassoSea,
+        "Windy City Series": WindyCitySeries,
+        "Wonder": Wonder,
+        "Wuthering Heights": WutheringHeights,
+        "You Are a Badass": YouAreaBadass
+}
+
 
 # ===== STREAMLIT USER INTERFACE ===============================================================================================================================
 st.title("Interest Finder")
@@ -737,10 +980,11 @@ selected_music = checkbox_columns("Music"+"\U0001F3EB", list(music.keys()), num_
 selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.keys()), num_cols=4)
 #selected_activities = checkbox_columns("Activities/Interests for Fun"+"\U0001F3C3", list(activities.keys()), num_cols=4)
 selected_summercamps = checkbox_columns("Summer Camp"+"\U0001F525", list(summercamps.keys()), num_cols=4)
+selected_books = checkbox_columns("Books/Authors"+"\U0001F4D6", list(books.keys()), num_cols=4)
 #selected_nicheinterests = checkbox_columns("Niche Interests"+"\U0001F388", list(nicheinterests.keys()), num_cols=4)
 #selected_transfers = checkbox_columns("Transfer Students"+"\U0001F501", list(transfers.keys()), num_cols=4)
 
-selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_orgs + selected_summercamps + selected_music #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
+selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_orgs + selected_summercamps + selected_music + selected_books #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
 
 # ===== Matching Logic =====
 if selected_interests:
@@ -763,6 +1007,8 @@ if selected_interests:
             names = music[interest]
         elif interest in summercamps:
             names = summercamps[interest]
+        elif interest in books:
+            names = books[interest]
         #elif interest in extras:
          #   names = extras[interest]
         #elif interest in activities:
