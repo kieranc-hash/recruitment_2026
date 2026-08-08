@@ -1143,17 +1143,19 @@ physical_activities = {
 # ===== STREAMLIT USER INTERFACE ===============================================================================================================================
 st.title("Interest Finder")
 
-def checkbox_columns(title, interests, num_cols=4):
-    st.subheader(title)
+def checkbox_columns(section_name, interests, num_cols=4):
     selected = []
-    cols = st.columns(num_cols)
-    for i, interest in enumerate(interests):
-        col = cols[i % num_cols]
-        if col.checkbox(
-            interest,
-            key=f"{title}_{i}_{interest}"
-        ):
-            selected.append(interest)
+
+    # Create dropdown/expander for the entire section
+    with st.expander(section_name, expanded=False):
+        cols = st.columns(num_cols)
+
+        for i, interest in enumerate(interests):
+            col = cols[i % num_cols]
+
+            if col.checkbox(interest, key=f"{section_name}_{interest}"):
+                selected.append(interest)
+
     return selected
 
 # uncomment these as you add them back in
