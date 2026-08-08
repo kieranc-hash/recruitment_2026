@@ -300,6 +300,60 @@ TyMyers=["Kirra Vrzal"]
 KPop=["Sofie Combs"]
 HouseMusic=["Rishona Mopur"]
 
+# SUMMER CAMPS
+ACULeadershipCamps=['Kamryn Lowery']
+AreaHealthEducationCenterAHECCamp=['Maria Sepulveda']
+CampAgawak=['Brooke Rosenberg']
+CampAllen=['Annie Boeh', 'Ema Avila', 'Taylor McIlvain']
+CampBelovedandBeyond=['Kamryn Lowery']
+CampChoYeh=['Audrey Cooper']
+CampDeerRun=['Kate Hoog']
+CampLaurelwood=['Margot Rosenband']
+CampLonestar=['Drew Shelton']
+CampLonghorn=['Addison Starr', 'Annabelle Judson', 'Annie Hoag', 'Madeline Gottemoller', 'Molly Bogar', 'Rishona Mopur', 'Sofie Combs']
+CampLonghornIndianSprings=['Sofie Combs', 'Zeina Saghiyyah']
+CampLonghornInksLake=['Annabelle Judson']
+CampMystic=['Josie Daik']
+CampOlympia=['Sarah Miller']
+CampOzark=['Ella Garber']
+CampPineSprings=['Kamryn Lowery']
+CampRamah=['Brooke Rosenberg']
+CampTexas=['Natalie Juarez', 'Zoe Westbrook']
+CampThurman=['Olivia Asay']
+CampWaldemar=['Annabelle Judson']
+CatalinaIslandCamps=['Parker Keston']
+ChurchCamp=['Rishona Mopur']
+Fifthgradecamp=['Caitlin Van Sant']
+GeoFORCETexasSummerAcademies=['Jacqueline Olivier']
+IgniteTexas=['Annabelle Judson']
+Kickapoo=['Sarah Kester']
+LaityLodgeYouthCamp=['Annie Bryce']
+MissionTrips=['Caroline Schulze']
+NASASummerProgram=['Olivia Alvarez']
+NationalCheerleadingAssociationCamp=['Morgan Gaitz']
+NationalHispanicInstituteCollegeWorldSeriesSummerProgram=['Olivia Alvarez']
+NationalHispanicInstituteTexasLorenzoDeZavalaProgram=['Olivia Alvarez']
+PineCove=['Ella Dillinger', 'Katie Corbin', 'Sarah Miller']
+PineywoodsChurchCamp=['Sophia Sayers']
+SandyHillCamp=['Kate Belman']
+SkyRanch=['Ava Dahlander', 'Hannah Dollinger']
+StMarysSummerCamps=['Maria Sepulveda']
+SuperSummeratDallasBaptistUniversity=['Sophia Sayers']
+TbarMCamp=['Kate Neiman']
+TCUWilsonTennisCamp=['Angie Andersen']
+TapiaSTEMCampsatRiceUniversity=['Olivia Alvarez']
+TexasGirlsStateProgram=['Olivia Alvarez']
+TheatreCamp=['Katelyn Quintanilla', 'Katherine Blumenschein']
+TimberlakeCamp=['Dylan Kaufman']
+UTComputerScienceAcademyforAll=['Olivia Alvarez']
+UTVolleyballCamp=['Ema Avila']
+VacationBibleSchool=['Emily Bull']
+YMCASummerCamp=['Drew Shelton']
+YoungLifeCamp=['Annie Bryce', 'Giada Scaramuzza']
+YoungLifeCrookedCreek=['Giada Scaramuzza']
+YoungLifeLoneHollowRanch=['Giada Scaramuzza']
+YoungLifeWilderness=['Giada Scaramuzza']
+
 
 # ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
 majors = {
@@ -602,6 +656,60 @@ music = {
     "House Music": HouseMusic
 }
 
+summercamps = {
+        "ACU Leadership Camps": ACULeadershipCamps,
+        "Area Health Education Center (AHEC) Camp": AreaHealthEducationCenterAHECCamp,
+        "Camp Agawak": CampAgawak,
+        "Camp Allen": CampAllen,
+        "Camp Beloved and Beyond": CampBelovedandBeyond,
+        "Camp ChoYeh": CampChoYeh,
+        "Camp Deer Run": CampDeerRun,
+        "Camp Laurelwood": CampLaurelwood,
+        "Camp Lonestar": CampLonestar,
+        "Camp Longhorn": CampLonghorn,
+        "Camp Longhorn Indian Springs": CampLonghornIndianSprings,
+        "Camp Longhorn Inks Lake": CampLonghornInksLake,
+        "Camp Mystic": CampMystic,
+        "Camp Olympia": CampOlympia,
+        "Camp Ozark": CampOzark,
+        "Camp Pine Springs": CampPineSprings,
+        "Camp Ramah": CampRamah,
+        "Camp Texas": CampTexas,
+        "Camp Thurman": CampThurman,
+        "Camp Waldemar": CampWaldemar,
+        "Catalina Island Camps": CatalinaIslandCamps,
+        "Church Camp": ChurchCamp,
+        "Fifth grade camp": Fifthgradecamp,
+        "GeoFORCE Texas Summer Academies": GeoFORCETexasSummerAcademies,
+        "Ignite Texas": IgniteTexas,
+        "Kickapoo": Kickapoo,
+        "Laity Lodge Youth Camp": LaityLodgeYouthCamp,
+        "Mission Trips": MissionTrips,
+        "NASA Summer Program": NASASummerProgram,
+        "National Cheerleading Association Camp": NationalCheerleadingAssociationCamp,
+        "National Hispanic Institute College World Series Summer Program": NationalHispanicInstituteCollegeWorldSeriesSummerProgram,
+        "National Hispanic Institute Texas Lorenzo De Zavala Program": NationalHispanicInstituteTexasLorenzoDeZavalaProgram,
+        "Pine Cove": PineCove,
+        "Pineywoods Church Camp": PineywoodsChurchCamp,
+        "Sandy Hill Camp": SandyHillCamp,
+        "Sky Ranch": SkyRanch,
+        "St Marys Summer Camps": StMarysSummerCamps,
+        "Super Summer at Dallas Baptist University": SuperSummeratDallasBaptistUniversity,
+        "T bar M Camp": TbarMCamp,
+        "TCU Wilson Tennis Camp": TCUWilsonTennisCamp,
+        "Tapia STEM Camps at Rice University": TapiaSTEMCampsatRiceUniversity,
+        "Texas Girls State Program": TexasGirlsStateProgram,
+        "Theatre Camp": TheatreCamp,
+        "Timberlake Camp": TimberlakeCamp,
+        "UT Computer Science Academy for All": UTComputerScienceAcademyforAll,
+        "UT Volleyball Camp": UTVolleyballCamp,
+        "Vacation Bible School": VacationBibleSchool,
+        "YMCA Summer Camp": YMCASummerCamp,
+        "YoungLife Camp": YoungLifeCamp,
+        "YoungLife Crooked Creek": YoungLifeCrookedCreek,
+        "YoungLife Lone Hollow Ranch": YoungLifeLoneHollowRanch,
+        "YoungLife Wilderness": YoungLifeWilderness
+
 
 # ===== STREAMLIT USER INTERFACE ===============================================================================================================================
 st.title("Interest Finder")
@@ -628,11 +736,11 @@ selected_music = checkbox_columns("Music"+"\U0001F3EB", list(music.keys()), num_
 #selected_extras = checkbox_columns("HS Extracurriculars"+"\U0001F483", list(extras.keys()), num_cols=4)
 selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.keys()), num_cols=4)
 #selected_activities = checkbox_columns("Activities/Interests for Fun"+"\U0001F3C3", list(activities.keys()), num_cols=4)
-#selected_summercamps = checkbox_columns("Summer Camp"+"\U0001F525", list(summercamps.keys()), num_cols=4)
+selected_summercamps = checkbox_columns("Summer Camp"+"\U0001F525", list(summercamps.keys()), num_cols=4)
 #selected_nicheinterests = checkbox_columns("Niche Interests"+"\U0001F388", list(nicheinterests.keys()), num_cols=4)
 #selected_transfers = checkbox_columns("Transfer Students"+"\U0001F501", list(transfers.keys()), num_cols=4)
 
-selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_orgs + selected_music #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
+selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_orgs + selected_summercamps + selected_music #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
 
 # ===== Matching Logic =====
 if selected_interests:
@@ -653,12 +761,12 @@ if selected_interests:
             names = utorgs[interest]
         elif interest in music:
             names = music[interest]
+        elif interest in summercamps:
+            names = summercamps[interest]
         #elif interest in extras:
          #   names = extras[interest]
         #elif interest in activities:
          #   names = activities[interest]
-        #elif interest in summercamps:
-         #   names = summercamps[interest]
         #elif interest in nicheinterests:
          #   names = nicheinterests[interest]
         #elif interest in transfers:
