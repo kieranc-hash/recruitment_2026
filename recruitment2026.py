@@ -521,6 +521,14 @@ Religious=["Kamryn Lowery", "Ella Leininger", "Elyse Miller", "Annabelle Judson"
 GirlScouts=["Kamryn Lowery", "Ryleigh Montgomery", "Ema Avila", "Christa Hamlin", "Molly Bogar", "Jennifer Rosado", "Giana Toothman", "Hadley Amann"]
 IBProgram=["Siri Pemberton", "Sarah Kester", "Hazel Wells", "Katie Windell", "Madeline Gottemoller", "Sofia Argoti", "Ava Dahlander"]
 
+# PHILANTHROPY
+WorkingWithAnimals=["Georgia Key", "Siri Pemberton", "Kamryn Lowery", "Drew Shelton", "Ella Leininger", "Lauren Henderson", "Neela Juarez", "Brooke Waldman", "Katie Windell", "Ava Hodges", "Addie Brooks", "Morgan Gaitz", "Macie McKie", "Jazlyn Mata", "Sarah Miller", "Natalie Juarez", "Ema Avila", "Christa Hamlin", "Zeina Saghiyyah", "Giada Scaramuzza", "Molly Bogar", "Kaitlin Black", "Emmerich Benavides", "Emma Levy", "Skye Doughton", "Giana Toothman", "Maria Sepulveda", "Elizabeth Perales", "Ella Garber", "Sofie Arroyo", "Izzy Davies", "Charlie Stone", "Madison Taylor", "Paola Castillo", "Hannah Belenkiy"]
+WorkingWithChildren=["Celeste Gutierrez", "Siri Pemberton", "Lee Lloyd", "Kamryn Lowery", "Drew Shelton", "Ella Leininger", "May Downey", "Anika Novak", "Audrey Cooper", "Sarah Kester", "Hazel Wells", "Annie Boeh", "Lauren Henderson", "Katherine Blumenschein", "Parker Keston", "Farrah Childs", "Neela Juarez", "Dylan Kaufman", "Josie Daik", "Brooke Waldman", "Hadley Amann", "Katie Windell", "Andrea Yu", "Sofie Martinez", "Sofia Bartkoski", "Ryleigh Montgomery", "Ava Dahlander", "Olivia Asay", "Ema Avila", "Abrielle Gallini", "Mia Cisneros", "Christa Hamlin", "Tatum Samuels", "Caroline Schulze", "Hasita Karthikeyan", "Lexie Hale", "Margot Rosenband", "Audrey Jones", "Buckley Turner", "Giada Scaramuzza", "Molly Bogar", "Bella Champion", "Hannah Reilly", "Ella Pitts", "Kaitlin Black", "Daisy Challoner", "Arani Walton", "Amorie Erichsen", "Lily Robbins", "Olivia Alvarez", "Kate Hoog", "Sophia Sayers", "Jennifer Rosado", "Emma Levy", "Elizabeth Porter", "Skye Doughton", "Kassidy Bragg", "Angie Andersen", "Kimia Forouzesh", "Giana Toothman", "Caelyn Prochazka", "Emily Bull", "Hadley Amann", "Elena Solano", "Ollie Mae Harrison", "Elizabeth Perales", "Kate Flanery", "Kaelyn Liu", "Marie Jolie Day", "Ryleigh Montgomery", "Braeleigh Garcia", "Izzy Davies", "Delaney O’Brien", "Hannah Belenkiy", "Zoe Veliz", "Zoey Bustamante", "Emma Schneidau", "Sophia Labazzo", "Annie Bryce", "Anabel Precht", "Sharon Yoon", "Madison Taylor", "Katie Walsh", "Haylee Martin", "Rishona Mopur", "Andrea Yu", "Kendall Klimek", "Kate Belman", "Kirra Vrzal", "Paola Castillo", "Elizabeth Scull"]
+WorkingWithElderlyDisabled=["Lee Lloyd", "Kamryn Lowery", "Drew Shelton", "Audrey Cooper", "Katherine Blumenschein", "Farrah Childs", "Andrea Yu", "Ryleigh Montgomery", "Annie Hoag", "Macie McKie", "Zoë Westbrook", "Sarah Miller", "Ava Dahlander", "Ema Avila", "Christa Hamlin", "Tatum Samuels", "Natalie Yoder", "Hasita Karthikeyan", "Hannah Dollinger", "Lexie Hale", "Audrey Jones", "Buckley Turner", "Molly Bogar", "Hannah Reilly", "Ella Pitts", "Kaitlin Black", "Amorie Erichsen", "Olivia Alvarez", "Emma Levy", "Elizabeth Porter", "Skye Doughton", "Kassidy Bragg", "Giana Toothman", "Caelyn Prochazka", "Emily Bull", "Ollie Mae Harrison", "Ryleigh Montgomery", "Braeleigh Garcia", "Izzy Davies", "Brooke Rosenberg", "Sanya Hoskere", "Haylee Martin", "Andrea Yu", "Kirra Vrzal", "Paola Castillo", "Elizabeth Scull"]
+WorkingWithEnvironmentalConservation=["Kamryn Lowery", "Ella Leininger", "Anika Novak", "Lauren Henderson", "Parker Keston", "Neela Juarez", "Brooke Waldman", "Katie Windell", "Andrea Yu", "Mia Cisneros", "Christa Hamlin", "Caitlin Van Sant", "Giada Scaramuzza", "Hannah Reilly", "Daisy Challoner", "Olivia Alvarez", "Kate Hoog", "Emma Levy", "Skye Doughton", "Elizabeth Perales", "Kaelyn Liu", "Ella Garber", "Hannah Belenkiy", "Zoe Veliz", "Anabel Precht", "Madison Taylor", "Rishona Mopur", "Kirra Vrzal", "Paola Castillo", "Maria Sepulveda"]
+WorkingWithHealthcare=["Taylor McIlvain", "Kamryn Lowery", "Lauren Henderson", "Neela Juarez", "Farrah Childs", "Ryleigh Montgomery", "Caitlin Van Sant", "Sarah Miller", "Sophie Coe", "Hasita Karthikeyan", "Hannah Dollinger", "Lexie Hale", "Audrey Jones", "Buckley Turner", "Maria Sanchez", "Emmerich Benavides", "Taylor Jennings", "Jasmine Valdez", "Hadley Amann", "Sanya Hoskere", "Rishona Mopur", "Braeleigh Garcia", "Izzy Davies", "Sophia Labazzo", "Kirra Vrzal"]
+WorkingWithUnhousedImpoverished=["Kamryn Lowery", "Mrinali Ganta", "Neela Juarez", "Josie Daik", "Sofie Combs", "Addison Starr", "Annabelle Judson", "Morgan Gaitz", "Tatum Samuels", "Jacqueline Olivier", "Buckley Turner", "Molly Bogar", "Kaitlin Black", "Sophie Sayers", "Sophia Sayers", "Emma Levy", "Elizabeth Porter", "Skye Doughton", "Kimia Forouzesh", "Giana Toothman", "Catherine Dooley", "Elizabeth Perales", "Katie Corbin", "Alexa Lira", "Kaelyn Liu", "Ella Garber", "Sofie Arroyo", "Ryleigh Montgomery", "Izzy Davies", "Anabel Precht", "Sharon Yoon", "Emma Schneidau", "Sophia Labazzo", "Kate Neiman", "Katelyn Quintanilla", "Paola Castillo"]
+WorkingWithSocialActivism=["Siri Pemberton", "Lauren Henderson", "Sofia Bartkoski", "Sofie Combs", "Natalie Juarez", "Caroline Schulze", "Margot Rosenband", "Lily Robbins", "Olivia Alvarez", "Sammi Gill", "Zoe Veliz", "Annie Bryce", "Anabel Precht", "Katie Walsh", "Emma Levy"]
 
 
 # ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
@@ -1048,6 +1056,15 @@ clubs = {
     "IB Program": IBProgram,
 }
 
+philanthropy = {
+    "Working with Animals": WorkingWithAnimals,
+    "Working with Children": WorkingWithChildren,
+    "Working with Elderly / Disabled People": WorkingWithElderlyDisabled,
+    "Working with Environmental Conservation": WorkingWithEnvironmentalConservation,
+    "Working with Healthcare Related Fields": WorkingWithHealthcare,
+    "Working with Unhoused / Impoverished People": WorkingWithUnhousedImpoverished,
+    "Working with Social Activism": WorkingWithSocialActivism,
+}
 
 
 
@@ -1065,7 +1082,6 @@ def checkbox_columns(title, interests, num_cols=4):
             key=f"{title}_{i}_{interest}"
         ):
             selected.append(interest)
-
     return selected
 
 # uncomment these as you add them back in
@@ -1080,11 +1096,12 @@ selected_clubs = checkbox_columns("HS Clubs"+"\U0001F3E2", list(clubs.keys()), n
 selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.keys()), num_cols=4)
 #selected_activities = checkbox_columns("Activities/Interests for Fun"+"\U0001F3C3", list(activities.keys()), num_cols=4)
 selected_summercamps = checkbox_columns("Summer Camp"+"\U0001F525", list(summercamps.keys()), num_cols=4)
+selected_philanthropy = checkbox_columns("Philanthropy"+"\U0001FAF6", list(philanthropy.keys()), num_cols=4)
 selected_books = checkbox_columns("Books/Authors"+"\U0001F4D6", list(books.keys()), num_cols=4)
 #selected_nicheinterests = checkbox_columns("Niche Interests"+"\U0001F388", list(nicheinterests.keys()), num_cols=4)
 #selected_transfers = checkbox_columns("Transfer Students"+"\U0001F501", list(transfers.keys()), num_cols=4)
 
-selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_sports + selected_orgs + selected_clubs + selected_summercamps + selected_music + selected_books #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
+selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_sports + selected_orgs + selected_clubs + selected_summercamps + selected_philanthoropy + selected_music + selected_books #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
 
 # ===== Matching Logic =====
 if selected_interests:
@@ -1113,6 +1130,8 @@ if selected_interests:
             names = summercamps[interest]
         elif interest in books:
             names = books[interest]
+        elif interest in philanthropy:
+            names = philanthropy[interest]
         #elif interest in extras:
          #   names = extras[interest]
         #elif interest in activities:
