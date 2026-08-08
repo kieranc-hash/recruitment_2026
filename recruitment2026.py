@@ -475,6 +475,24 @@ Wonder=['Margot Rosenband', 'Sophia Sayers']
 WutheringHeights=['Anika Novak', 'Bella Champion', 'Margot Rosenband']
 YouAreaBadass=['Sofia Argoti']
 
+# HIGH SCHOOL INVOLVEMENT
+NationalHonorSociety=["Georgia Key", "Celeste Gutierrez", "Siri Pemberton", "Taylor McIlvain", "Kamryn Lowery", "Drew Shelton", "Ella Leininger", "May Downey", "Laraleigh Hackerman", "Anika Novak", "Audrey Cooper", "Sarah Kester", "Hazel Wells", "Annie Boeh", "Lauren Henderson", "Katherine Blumenschein", "Mrinali Ganta", "Farrah Childs", "Neela Juarez", "Dylan Kaufman", "Madeline Gottemoller", "Josie Daik", "Sasha Pittsford", "Hadley Amann", "Andrea Yu", "Sofie Martinez", "Sofia Bartkoski", "Ryleigh Montgomery", "Annabelle Judson", "Ella Dillinger", "Morgan Gaitz", "Sofie Combs", "Sofia Argoti", "Zoë Westbrook", "Caitlin Van Sant", "Jazlyn Mata", "Sarah Miller", "Sophie Coe", "Ava Dahlander", "Natalie Juarez", "Olivia Asay", "Emmerich Benavides", "Daisy Challoner", "Buckley Turner", "Giada Scaramuzza", "Bella Champion", "Hannah Reilly", "Ella Pitts", "Kaitlin Black", "Kassidy Bragg", "Angie Andersen", "Kimia Forouzesh", "Giana Toothman", "Sammi Gill", "Caelyn Prochazka", "Taylor Jennings", "Victoria Olivarez", "Maria Sepulveda", "Ollie Mae Harrison", "Elizabeth Perales", "Kate Flanery", "Katie Corbin", "Sofie Arroyo", "Braeleigh Garcia", "Izzy Davies", "Emma Schneidau", "Hannah Belenkiy", "Zoe Veliz", "Brooke Rosenberg", "Madison Taylor", "Katie Walsh", "Sanya Hoskere", "Haylee Martin", "Rishona mopur", "Kate Belman", "Kate Neiman", "Kirra Vrzal", "Paola Castillo", "Elizabeth Scull"]
+HonorSocieties=["Celeste Gutierrez", "Siri Pemberton", "Drew Shelton", "Audrey Cooper", "Annie Boeh", "Lauren Henderson", "Farrah Childs", "Neela Juarez", "Madeline Gottemoller", "Sofia Bartkoski", "Ryleigh Montgomery", "Megan Garza", "Zeina Saghiyyah", "Hasita Karthikeyan", "Emmerich Benavides", "Daisy Challoner", "Elizabeth Porter", "Angie Andersen", "Giana Toothman", "Sammi Gill", "Maria Sepulveda", "Sanya Hoskere", "Kate Belman", "Kate Neiman", "Kirra Vrzal", "Katelyn Quintanilla"]
+StudentCouncil=["Celeste Gutierrez", "Laraleigh Hackerman", "Anika Novak", "Hazel Wells", "Katherine Blumenschein", "Dylan Kaufman", "Madeline Gottemoller", "Ella Dillinger", "Macie McKie", "Caitlin Van Sant", "Sarah Miller", "Sophie Coe", "Natalie Juarez", "Olivia Asay", "Abrielle Gallini", "Christa Hamlin", "Caroline Schulze", "Hasita Karthikeyan", "Hannah Dollinger", "Buckley Turner", "Tatum Samuels", "Emmerich Benavides", "Victoria Olivarez", "Maria Sepulveda", "Elena Solano", "Elizabeth Perales", "Kaelyn Liu", "Delaney O’Brien", "Annabelle Judson", "Charlie Stone", "Madison Taylor", "Katie Walsh", "Kate Belman", "Kirra Vrzal", "Paola Castillo", "Elizabeth Scull"]
+HOSA=[ "Taylor McIlvain", "Ella Leininger", "Neela Juarez", "Ryleigh Montgomery", "Megan Garza", "Hannah Dollinger", "Lexie Hale", "Ema Avila", "Emmerich Benavides", "Giana Toothman", "Sammi Gill", "Jasmine Valdez", "Maria Sanchez", "Maria Sepulveda", "Kate Flanery", "Sanya Hoskere", "Sofie Arroyo", "Braeleigh Garcia", "Ryleigh Montgomery"]
+KeyClub=["Dylan Kaufman", "Macie McKie", "Lexie Hale", "Maria Sanchez", "Daisy Challoner", "Amorie Erichsen", "Kate Hoog", "Giada Scaramuzza", "Jacqueline Olivier", "Izzy Davies", "Anabel Precht", "Andrea Yu", "Ryleigh Montgomery", "Emma Schneidau"]
+NationalCharityLeague=["Hazel Wells", "Mrinali Ganta", "Josie Daik", "Brooke Waldman", "Sofie Combs", "Ava Hodges", "Ryleigh Montgomery", "Annabelle Judson", "Ella Dillinger", "Morgan Gaitz", "Tatum Samuels", "Zeina Saghiyyah", "Hannah Dollinger", "Addison Starr", "Ava Dahlander", "Giada Scaramuzza", "Molly Bogar", "Kaitlin Black", "Giana Toothman", "Ollie Mae Harrison", "Ella Garber", "Izzy Davies", "Brooke Rosenberg"]
+TutoringPeerMentoring=["Lauren Henderson", "Mrinali Ganta", "Sofia Bartkoski", "Caitlin Van Sant", "Sophie Coe", "Emmerich Benavides", "Lily Robbins", "Olivia Alvarez", "Sophia Sayers", "Giana Toothman", "Elizabeth Porter", "Katie Corbin", "Ella Garber", "Izzy Davies", "Zoe Veliz", "Annie Bryce", "Madison Taylor", "Katie Walsh", "Andrea Yu"]
+StudentPublications=[ "Emmy Pak", "Elyse Miller", "Parker Keston", "Sasha Pittsford", "Josie Daik", "Abrielle Gallini", "Ella Dillinger", "Hannah Reilly", "Margot Rosenband", "Lily Robbins", "Giana Toothman", "Kate Flanery", "Zoe Veliz", "Brooke Rosenberg", "Katie Walsh", "Kate Belman", "Kate Neiman", "Elizabeth Perales", "Sasha Pittsford"]
+PerformingArts=[ "Lee Lloyd", "Drew Shelton", "Katherine Blumenschein", "Annie Hoag", "Addie Brooks", "Madeline Gottemoller", "Ava Dahlander", "Olivia Asay", "Ema Avila", "Annie Hoag", "Hannah Reilly", "Kaitlin Black", "Elizabeth Perales", "Katelyn Quintanilla", "Marie Jolie Day", "Giana Toothman", "Ella Dillinger", "Kate Flanery", "Zoey Bustamante"]
+STEMAcademic=["Lauren Henderson", "Mrinali Ganta", "Farrah Childs", "Neela Juarez", "Andrea Yu", "Sofia Argoti", "Zeina Saghiyyah", "Hasita Karthikeyan", "Megan Garza", "Daisy Challoner", "Arani Walton", "Olivia Alvarez", "Elizabeth Porter", "Kimia Forouzesh", "Kate Flanery", "Katie Corbin", "Sanya Hoskere", "Hannah Belenkiy", "Annie Boeh", "Audrey Cooper"]
+GovernmentDebate=["Siri Pemberton", "Drew Shelton", "Madeline Gottemoller", "Sofia Bartkoski", "Mia Cisneros", "Olivia Alvarez", "Victoria Olivarez", "Maria Sepulveda", "Charlie Stone", "Emma Schneidau", "Sophia Labazzo", "Kate Neiman", "Alexa Lira", "Katie Walsh"]
+ServiceVolunteer=["Kamryn Lowery", "Hazel Wells", "Sarah Kester", "Ryleigh Montgomery", "Caroline Schulze", "Emma Levy", "Emily Bull", "Elena Solano", "Anabel Precht", "Kendall Klimek", "Charlie Stone", "Izzy Davies", "Brooke Rosenberg", "Paola Castillo", "Victoria Olivarez"]
+Religious=["Kamryn Lowery", "Ella Leininger", "Elyse Miller", "Annabelle Judson", "Ava Dahlander", "Ema Avila", "Christa Hamlin", "Caroline Schulze", "Hannah Dollinger", "Bella Champion", "Hannah Reilly", "Kaitlin Black", "Sophia Sayers", "Ella Garber", "Paola Castillo", "Annie Bryce"]
+GirlScouts=["Kamryn Lowery", "Ryleigh Montgomery", "Ema Avila", "Christa Hamlin", "Molly Bogar", "Jennifer Rosado", "Giana Toothman", "Hadley Amann"]
+IBProgram=["Siri Pemberton", "Sarah Kester", "Hazel Wells", "Katie Windell", "Madeline Gottemoller", "Sofia Argoti", "Ava Dahlander"]
+
+
 
 # ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
 majors = {
@@ -954,6 +972,55 @@ books = {
         "You Are a Badass": YouAreaBadass
 }
 
+sports = {
+    "Dance Team": DanceTeam,
+    "Drill Team": DrillTeam,
+    "Golf": Golf,
+    "Swimming / Diving": SwimmingDiving,
+    "Basketball": Basketball,
+    "Cross Country": CrossCountry,
+    "Track": Track,
+    "Rowing": Rowing,
+    "Volleyball": Volleyball,
+    "Soccer": Soccer,
+    "Tennis": Tennis,
+    "Cheerleading": Cheerleading,
+    "Water Polo": WaterPolo,
+    "Softball": Softball,
+    "Skiing": Skiing,
+    "Lacrosse": Lacrosse,
+    "Field Hockey": FieldHockey,
+    "Ballet": Ballet,
+    "Powerlifting": Powerlifting,
+    "Weightlifting": Weightlifting,
+    "Martial Arts": MartialArts,
+    "Badminton": Badminton,
+    "Equestrian / Horse Riding": Equestrian,
+    "Sports Medicine": SportsMedicine,
+    "Marching Band": MarchingBand,
+    "Mascoting": Mascoting
+}
+
+clubs = {
+    "National Honor Society": NationalHonorSociety,
+    "Honor Societies": HonorSocieties,
+    "Student Council": StudentCouncil,
+    "HOSA": HOSA,
+    "Key Club": KeyClub,
+    "National Charity League": NationalCharityLeague,
+    "Tutoring / Peer Mentoring": TutoringPeerMentoring,
+    "Student Publications": StudentPublications,
+    "Performing Arts": PerformingArts,
+    "STEM / Academic": STEMAcademic,
+    "Government / Debate / Model UN": GovernmentDebate,
+    "Service / Volunteer": ServiceVolunteer,
+    "Religious": Religious,
+    "Girl Scouts": GirlScouts,
+    "IB Program": IBProgram,
+}
+
+
+
 
 # ===== STREAMLIT USER INTERFACE ===============================================================================================================================
 st.title("Interest Finder")
@@ -976,8 +1043,9 @@ selected_majors = checkbox_columns("Majors"+'\U0001F4DA', list(majors.keys()), n
 selected_minors = checkbox_columns("Minors"+"\U0001F4DD", list(minors.keys()), num_cols=4)
 selected_colleges = checkbox_columns("College/Track"+"\U0001FA7A", list(colleges.keys()), num_cols=4)
 selected_hometowns = checkbox_columns("Hometowns"+"\U0001F3E0", list(hometowns.keys()), num_cols=4)
+selected_sports = checkbox_columns("High School Sports"+"\U0001F3C6", list(sports.keys()), num_cols=4)
 selected_music = checkbox_columns("Music"+"\U0001F3EB", list(music.keys()), num_cols=4)
-#selected_extras = checkbox_columns("HS Extracurriculars"+"\U0001F483", list(extras.keys()), num_cols=4)
+selected_clubs = checkbox_columns("HS Clubs"+"\U0001F483", list(clubs.keys()), num_cols=4)
 selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.keys()), num_cols=4)
 #selected_activities = checkbox_columns("Activities/Interests for Fun"+"\U0001F3C3", list(activities.keys()), num_cols=4)
 selected_summercamps = checkbox_columns("Summer Camp"+"\U0001F525", list(summercamps.keys()), num_cols=4)
@@ -985,7 +1053,7 @@ selected_books = checkbox_columns("Books/Authors"+"\U0001F4D6", list(books.keys(
 #selected_nicheinterests = checkbox_columns("Niche Interests"+"\U0001F388", list(nicheinterests.keys()), num_cols=4)
 #selected_transfers = checkbox_columns("Transfer Students"+"\U0001F501", list(transfers.keys()), num_cols=4)
 
-selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_orgs + selected_summercamps + selected_music + selected_books #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
+selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_sports + selected_orgs + selected_clubs + selected_summercamps + selected_music + selected_books #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
 
 # ===== Matching Logic =====
 if selected_interests:
@@ -1002,8 +1070,12 @@ if selected_interests:
             names = colleges[interest]
         elif interest in hometowns:
             names = hometowns[interest]
+        elif interest in sports:
+            names = sports[interest]
         elif interest in utorgs:
             names = utorgs[interest]
+        elif interest in clubs:
+            names = clubs[interest]
         elif interest in music:
             names = music[interest]
         elif interest in summercamps:
