@@ -1054,17 +1054,19 @@ clubs = {
 # ===== STREAMLIT USER INTERFACE ===============================================================================================================================
 st.title("Interest Finder")
 
-def checkbox_columns(title, items, num_cols=2):
-    st.markdown(f'### {title}')
-    with st.expander('Select Here', expanded=False):
-        cols = st.columns(num_cols)
-        chunk_size = math.ceil(len(items) / num_cols)
-        selected = []
-        for i, interest in enumerate(items):
-            col = cols[i // chunk_size]
-            if col.checkbox(interest):
-                selected.append(interest)
-        return selected
+def checkbox_columns(title, interests, num_cols=4):
+    st.subheader(title)
+    selected = []
+    cols = st.columns(num_cols)
+    for i, interest in enumerate(interests):
+        col = cols[i % num_cols]
+        if col.checkbox(
+            interest,
+            key=f"{title}_{i}_{interest}"
+        ):
+            selected.append(interest)
+
+    return selected
 
 # uncomment these as you add them back in
         
@@ -1073,8 +1075,8 @@ selected_minors = checkbox_columns("Minors"+"\U0001F4DD", list(minors.keys()), n
 selected_colleges = checkbox_columns("College/Track"+"\U0001FA7A", list(colleges.keys()), num_cols=4)
 selected_hometowns = checkbox_columns("Hometowns"+"\U0001F3E0", list(hometowns.keys()), num_cols=4)
 selected_sports = checkbox_columns("High School Sports"+"\U0001F3C6", list(sports.keys()), num_cols=4)
-selected_music = checkbox_columns("Music"+"\U0001F3EB", list(music.keys()), num_cols=4)
-selected_clubs = checkbox_columns("HS Clubs"+"\U0001F483", list(clubs.keys()), num_cols=4)
+selected_music = checkbox_columns("Music"+"\U0001F3B5", list(music.keys()), num_cols=4)
+selected_clubs = checkbox_columns("HS Clubs"+"\U0001F3E2", list(clubs.keys()), num_cols=4)
 selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.keys()), num_cols=4)
 #selected_activities = checkbox_columns("Activities/Interests for Fun"+"\U0001F3C3", list(activities.keys()), num_cols=4)
 selected_summercamps = checkbox_columns("Summer Camp"+"\U0001F525", list(summercamps.keys()), num_cols=4)
