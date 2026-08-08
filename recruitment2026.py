@@ -190,9 +190,9 @@ IntramuralSports=["Georgia Key", "Emmy Pak", "Drew Shelton", "Audrey Cooper", "S
 BusinessFinanceMarketingEconomics=["Celeste Gutierrez", "Laraleigh Hackerman", "Addie Brooks", "Macie McKie", "Olivia Asay", "Natalie Yoder", "Hasita Karthikeyan", "Margot Rosenband", "Catherine Dooley", "Emma Schneidau", "Sharon Yoon", "Madison Taylor", "Haylee Martin", "Sofie Arroyo", "Kaelyn Liu", "Hannah Belenkiy", "Marie Jolie Day"]
 PreHealth=["Audrey Cooper", "Lauren Henderson", "Farrah Childs", "Neela Juarez", "Josie Daik", "Caitlin Van Sant", "Sofie Martinez", "Tatum Samuels", "Caroline Schulze", "Hasita Karthikeyan", "Hannah Dollinger", "Megan Garza", "Lexie Hale", "Maria Sanchez", "Emmerich Benavides", "Genesis Martinez", "Elizabeth Porter", "Sammi Gill", "Caelyn Prochazka", "Taylor Jennings", "Jasmine Valdez", "Maria Sepulveda", "Hadley Amann", "Braeleigh Garcia", "Izzy Davies", "Sophia Labazzo", "Rishona Mopur", "Andrea Yu"]
 PreLaw=["Kamryn Lowery", "Drew Shelton", "Ella Leininger", "May Downey", "Sofia Bartkoski", "Addison Starr", "Mia Cisneros", "Arani Walton", "Lily Robbins", "Margot Rosenband", "Alexa Lira", "Victoria Olivarez", "Charlie Stone", "Katie Walsh", "Anabel Precht", "Zoey Bustamante"]
-Religious=["Kamryn Lowery", "Audrey Cooper", "Sarah Kester", "Annie Boeh", "Mrinali Ganta", "Farrah Childs", "Dylan Kaufman", "Ryleigh Montgomery", "Annabelle Judson", "Ella Dillinger", "Morgan Gaitz", "Ema Avila", "Christa Hamlin", "Caroline Schulze", "Hasita Karthikeyan", "Buckley Turner", "Ella Pitts",  "Kaitlin Black", "Emma Levy", "Amorie Erichsen", "Giada Scaramuzza", "Kaelyn Liu", "Annie Bryce", "Brooke Rosenberg", "Paola Castillo", "Elizabeth Scull", "Sanya Hoskere"]
+ReligiousOrg=["Kamryn Lowery", "Audrey Cooper", "Sarah Kester", "Annie Boeh", "Mrinali Ganta", "Farrah Childs", "Dylan Kaufman", "Ryleigh Montgomery", "Annabelle Judson", "Ella Dillinger", "Morgan Gaitz", "Ema Avila", "Christa Hamlin", "Caroline Schulze", "Hasita Karthikeyan", "Buckley Turner", "Ella Pitts",  "Kaitlin Black", "Emma Levy", "Amorie Erichsen", "Giada Scaramuzza", "Kaelyn Liu", "Annie Bryce", "Brooke Rosenberg", "Paola Castillo", "Elizabeth Scull", "Sanya Hoskere"]
 STEM=["Mrinali Ganta", "Farrah Childs", "Neela Juarez", "Katie Windell", "Andrea Yu", "Sophie Coe", "Morgan Gaitz", "Zeina Saghiyyah", "Lexie Hale", "Emmerich Benavides", "Sofia Argoti", "Audrey Jones", "Kimia Forouzesh", "Elizabeth Porter", "Katie Corbin", "Ollie Mae Harrison", "Hadley Amann"]
-Art=["Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Margot Rosenband", "Kate Flanery", "Ella Garber", "Delaney O'Brien", "Anabel Precht", "Brooke Rosenberg", "Katie Walsh", "Kirra Vrzal"]
+ArtOrg=["Parker Keston", "Brooke Waldman", "Annabelle Judson", "Zoe Westbrook", "Natalie Juarez", "Margot Rosenband", "Kate Flanery", "Ella Garber", "Delaney O'Brien", "Anabel Precht", "Brooke Rosenberg", "Katie Walsh", "Kirra Vrzal"]
 PerformingArtsOrg=["Ava Hodges", "Annie Hoag", "Olivia Asay", "Kaitlin Black", "Giana Toothman", "Marie Jolie Day", "Brooke Rosenberg", "Katelyn Quintanilla"]
 CulturalOrg=["Celeste Gutierrez", "Natalie Juarez", "Ema Avila", "Olivia Alvarez", "Kimia Forouzesh", "Andrea Yu", "Sharon Yoon", "Kaelyn Liu", "Alexa Lira"]
 GovernmentOrg=["Kamryn Lowery", "Ella Leininger", "Madeline Gottemoller", "Sofia Bartkoski",  "Sofie Combs", "Lily Robbins", "Zoey Bustamante", "Katie Walsh"]
@@ -716,9 +716,9 @@ utorgs = {
     "Business/Finance/Marketing/Economics": BusinessFinanceMarketingEconomics,
     "Pre Health": PreHealth,
     "Pre Law": PreLaw,
-    "Religious": Religious,
+    "Religious": ReligiousOrg,
     "STEM": STEM,
-    "Art": Art,
+    "Art": ArtOrg,
     "Performing Arts Org": PerformingArtsOrg,
     "Cultural Org": CulturalOrg,
     "Government Org": GovernmentOrg,
