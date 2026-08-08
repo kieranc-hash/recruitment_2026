@@ -830,6 +830,7 @@ summercamps = {
         "YoungLife Crooked Creek": YoungLifeCrookedCreek,
         "YoungLife Lone Hollow Ranch": YoungLifeLoneHollowRanch,
         "YoungLife Wilderness": YoungLifeWilderness
+}
 
 books = {
         "1984": NineteenEightyFour,
