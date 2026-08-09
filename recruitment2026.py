@@ -1195,7 +1195,7 @@ other_activities = {
     "Government": Government,
     "Graphic Design": GraphicDesignInterest,
     "Health": Health,
-    "Listening to Music": ListeningtoMusic,
+    "Listening to Music": ListeningToMusic,
     "Musicals": Musicals,
     "Painting": Painting,
     "Philosophy": Philosophy,
