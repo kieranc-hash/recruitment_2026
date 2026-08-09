@@ -1272,9 +1272,9 @@ selected_hometowns = checkbox_columns("Hometowns"+"\U0001F3E0", list(hometowns.k
 selected_sports = checkbox_columns("High School Sports"+"\U0001F3C6", list(sports.keys()), num_cols=4)
 selected_music = checkbox_columns("Music"+"\U0001F3B5", list(music.keys()), num_cols=4)
 selected_clubs = checkbox_columns("HS Clubs"+"\U0001F3E2", list(clubs.keys()), num_cols=4)
-selected_orgs = checkbox_columns("UT Organizations"+"\U0000266B", list(utorgs.keys()), num_cols=4)
+selected_orgs = checkbox_columns("UT Organizations"+"\U0001F396", list(utorgs.keys()), num_cols=4)
 selected_physical_activities = checkbox_columns("Physical Activities for Fun"+"\U0001F3C3", list(physical_activities.keys()), num_cols=4)
-selected_other_activities = checkbox_columns("Activities/Interests for Fun"+"\U0001F3C3", list(other_activities.keys()), num_cols=4)
+selected_other_activities = checkbox_columns("Activities/Interests for Fun"+"\U0001F3A8", list(other_activities.keys()), num_cols=4)
 selected_summercamps = checkbox_columns("Summer Camp"+"\U0001F525", list(summercamps.keys()), num_cols=4)
 selected_philanthropy = checkbox_columns("Philanthropy"+"\U0001FAF6", list(philanthropy.keys()), num_cols=4)
 selected_books = checkbox_columns("Books/Authors"+"\U0001F4D6", list(books.keys()), num_cols=4)
@@ -1402,7 +1402,8 @@ if selected_interests:
 
     st.subheader("🔹 Some Matches")
     if some_match:
-        for name, matches in some_match:
+        some_match_sorted = sorted(some_match, key=lambda x: len(x[1]), reverse=True)
+        for name, matches in some_match_sorted:
             colored_names = coloring(name)
             st.markdown(f"{colored_names}: {', '.join(matches)}", unsafe_allow_html=True)
 
