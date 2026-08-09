@@ -608,6 +608,16 @@ PlayingPercussionInstrument=["Sofia Bartkoski", "Natalie Juarez", "Olivia Alvare
 PlayingStringInstrument=["Annie Hoag", "Ava Dahlander", "Hasita Karthikeyan", "Hannah Reilly", "Katie Corbin", "Delaney O’Brien", "Paola Castillo"]
 CrochetKnitting=["Lauren Henderson", "Neela Juarez", "Katie Windell", "Ava Dahlander", "Ella Pitts", "Jacqueline Olivier", "Angie Andersen", "Alexa Lira", "Delaney O’Brien", "Zoe Veliz", "Sharon Yoon"]
 
+# TRANSFER
+transfer = ["Josie daik", "Sasha Pittsford", "Addie Brooks", "Sofia Argoti", "Addison Starr", "Ema Avila", "Mia Cisneros", "Caroline Schulze", "Maria Sanchez", "Lily Robbins", "Kassidy Bragg", "Alexa Lira", "Emma Schneidau", "Paola Castillo"]
+UTA = ["Sasha Pittsford", "Caroline Schulze"]
+TexasTech = ["Addie Brooks"]
+UTEP = ["Sofia Argoti"]
+TuftsUniversity = ["Addison Starr"]
+UTSA = ["Ema Avila", "Maria Sanchez", "Kassidy Bragg", "Alexa Lira", "Emma Schneidau", "Paola Castillo"]
+UTRGV = ["Mia Cisneros"]
+TrinityUniversity = ["Lily Robbins"]
+
 
 # ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
 majors = {
@@ -1224,6 +1234,17 @@ other_activities = {
     "Blogging": Blogging,
 }
 
+transfers = {
+    "Transfer Student": transfer,
+    "UTA": UTA,
+    "Texas Tech": TexasTech,
+    "UTEP": UTEP,
+    "Tufts University": TuftsUniversity,
+    "UTSA": UTSA,
+    "UTRGV": UTRGV,
+    "Trinity University": TrinityUniversity
+}
+
 
 
 # ===== STREAMLIT USER INTERFACE ===============================================================================================================================
@@ -1231,7 +1252,6 @@ st.title("Interest Finder")
 
 def checkbox_columns(section_name, interests, num_cols=4):
     selected = []
-
     # Create dropdown/expander for the entire section
     with st.expander(section_name, expanded=False):
         cols = st.columns(num_cols)
@@ -1244,7 +1264,6 @@ def checkbox_columns(section_name, interests, num_cols=4):
 
     return selected
 
-# uncomment these as you add them back in
         
 selected_majors = checkbox_columns("Majors"+'\U0001F4DA', list(majors.keys()), num_cols=4)
 selected_minors = checkbox_columns("Minors"+"\U0001F4DD", list(minors.keys()), num_cols=4)
@@ -1259,10 +1278,9 @@ selected_other_activities = checkbox_columns("Activities/Interests for Fun"+"\U0
 selected_summercamps = checkbox_columns("Summer Camp"+"\U0001F525", list(summercamps.keys()), num_cols=4)
 selected_philanthropy = checkbox_columns("Philanthropy"+"\U0001FAF6", list(philanthropy.keys()), num_cols=4)
 selected_books = checkbox_columns("Books/Authors"+"\U0001F4D6", list(books.keys()), num_cols=4)
-#selected_nicheinterests = checkbox_columns("Niche Interests"+"\U0001F388", list(nicheinterests.keys()), num_cols=4)
-#selected_transfers = checkbox_columns("Transfer Students"+"\U0001F501", list(transfers.keys()), num_cols=4)
+selected_transfers = checkbox_columns("Transfer"+"\U0001F501", list(transfers.keys()), num_cols=4)
 
-selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_sports + selected_orgs + selected_clubs + selected_summercamps + selected_philanthropy + selected_physical_activities + selected_other_activities + selected_music + selected_books #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
+selected_interests = selected_majors + selected_minors + selected_colleges + selected_hometowns + selected_sports + selected_orgs + selected_clubs + selected_summercamps + selected_philanthropy + selected_physical_activities + selected_other_activities + selected_music + selected_books + selected_transfers #+ selected_schools + selected_extras + selected_orgs + selected_activities + selected_summercamps + selected_nicheinterests + selected_transfers
 
 # ===== Matching Logic =====
 if selected_interests:
@@ -1297,14 +1315,8 @@ if selected_interests:
             names = other_activities[interest]
         elif interest in books:
             names = books[interest]
-        #elif interest in extras:
-         #   names = extras[interest]
-        #elif interest in activities:
-         #   names = activities[interest]
-        #elif interest in nicheinterests:
-         #   names = nicheinterests[interest]
-        #elif interest in transfers:
-         #   names = transfers[interest]
+        elif interest in transfers:
+            names = transfers[interest]
         else:
             continue
 
