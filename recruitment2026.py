@@ -1005,7 +1005,7 @@ books = {
         "Circe": Circe,
         "Conversations with Friends": ConversationswithFriends,
         "Daisy Jones and The Six": DaisyJonesandTheSix,
-        "Diary of A Wimpy Kid": DiaryOfAWimpyKid
+        "Diary of A Wimpy Kid": DiaryOfAWimpyKid,
         "Emily Henry": EmilyHenry,
         "Emma": Emma,
         "Everything I Know About Love": EverythingIKnowAboutLove,
