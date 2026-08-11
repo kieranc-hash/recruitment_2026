@@ -685,7 +685,7 @@ majors = {
 minors = {
         "Advertising Minor": AdvertisingMinor,
         "American Sign Language Minor": AmericanSignLanguageMinor,
-        "Arabic Minor": ArabicMinor
+        "Arabic Minor": ArabicMinor,
         "Arts Management and Administration Minor": ArtsManagementandAdministrationMinor,
         "Business Administration Minor": BusinessAdministrationMinor,
         "Business Minor": BusinessMinor,
