@@ -862,7 +862,7 @@ music = {
     "The Neighborhood": TheNeighborhood,
     "The Beatles": TheBeatles,
     "Olivia Rodrigo": OliviaRodrigo,
-    "Tyler the Creator": TheCreator,
+    "Tyler the Creator": TylerTheCreator,
     "Adele": Adele,
     "Bruno Mars": BrunoMars,
     "Beyoncé": Beyonce,
