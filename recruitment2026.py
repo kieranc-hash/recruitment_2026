@@ -509,6 +509,7 @@ WaterPolo=["Emma Woods", "Audrey Cooper", "Sarah Kester", "Katie Windell", "Hann
 Weightlifting=["Alyssa Garcia"]
 
 # HIGH SCHOOL INVOLVEMENT
+DebCot=["Elizabeth Scull", "Emma Woods", "Zeina Saghiyyah", "Victoria Olivarez", "Kaelyn Liu", "Giana Toothman"]
 GirlScouts=["Kamryn Lowery", "Ryleigh Montgomery", "Ema Avila", "Christa Hamlin", "Molly Bogar", "Jennifer Rosado", "Giana Toothman", "Hadley Amann"]
 GovernmentDebate=["Siri Pemberton", "Drew Shelton", "Madeline Gottemoller", "Sofia Bartkoski", "Mia Cisneros", "Olivia Alvarez", "Victoria Olivarez", "Maria Sepulveda", "Charlie Stone", "Emma Schneidau", "Sophia Labazzo", "Kate Neiman", "Alexa Lira", "Katie Walsh"]
 HonorSocieties=["Kamryn Jean", "Sarah Preston", "Gaby Green", "Celeste Gutierrez", "Siri Pemberton", "Drew Shelton", "Audrey Cooper", "Annie Boeh", "Lauren Henderson", "Farrah Childs", "Neela Juarez", "Madeline Gottemoller", "Sofia Bartkoski", "Ryleigh Montgomery", "Megan Garza", "Zeina Saghiyyah", "Hasita Karthikeyan", "Emmerich Benavides", "Daisy Challoner", "Elizabeth Porter", "Angie Andersen", "Giana Toothman", "Sammi Gill", "Maria Sepulveda", "Sanya Hoskere", "Kate Belman", "Kate Neiman", "Kirra Vrzal", "Katelyn Quintanilla"]
@@ -1135,6 +1136,7 @@ sports = {
 }
 
 clubs = {
+    "Debutant / Cotillion": DebCot,
     "Girl Scouts": GirlScouts,
     "Government / Debate / Model UN": GovernmentDebate,
     "Honor Societies": HonorSocieties,
