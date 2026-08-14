@@ -1199,6 +1199,7 @@ other_activities = {
     "Arts and Crafts": ArtsandCrafts,
     "Baking": Baking,
     "Boardgames": Boardgames,
+    "Blogging": Blogging
     "Concerts / Live Music / Music Festivals": ConcertsLiveMusic,
     "Coffee/Tea": CoffeeTea,
     "Cooking": Cooking,
@@ -1210,8 +1211,10 @@ other_activities = {
     "Government": Government,
     "Graphic Design": GraphicDesignInterest,
     "Health": Health,
+    "Journaling": Journaling,
     "Listening to Music": ListeningToMusic,
     "Musicals": Musicals,
+    "Needlepoint": Needlepoint,
     "Painting": Painting,
     "Philosophy": Philosophy,
     "Photography": Photography,
@@ -1232,14 +1235,11 @@ other_activities = {
     "Tanning": Tanning,
     "Thrifting": Thrifting,
     "Traveling": Traveling,
+    "Two-stepping/line dancing": TwoSteppingLineDancing,
     "Vlogging": Vlogging,
     "Watching Sports": WatchingSports,
     "Watching TV/Movies": WatchingTVMovies,
-    "Writing": Writing,
-    "Journaling": Journaling,
-    "Needlepoint": Needlepoint,
-    "Two-stepping/line dancing": TwoSteppingLineDancing,
-    "Blogging": Blogging
+    "Writing": Writing
 }
 
 transfers = {
