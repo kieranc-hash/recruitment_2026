@@ -743,6 +743,8 @@ colleges = {
     "Jackson School of Geosciences": JacksonSchoolofGeosciences,
     "LBJ School of Public Affairs": LBJSchoolofPublicAffairs,
     "School of Civic Leadership": SchoolofCivicLeadership,
+    "Pre Health": PreHealth,
+    "Pre Law": PreLaw,
 }
 
 
@@ -815,24 +817,22 @@ hometowns = {
 }
 
 utorgs = {
-    "Intramural Sports": IntramuralSports,
-    "Business/Finance/Marketing/Economics": BusinessFinanceMarketingEconomics,
-    "Pre Health": PreHealth,
-    "Pre Law": PreLaw,
-    "Religious": ReligiousOrg,
-    "STEM": STEM,
-    "Art": ArtOrg,
-    "Performing Arts Org": PerformingArtsOrg,
-    "Cultural Org": CulturalOrg,
-    "Government Org": GovernmentOrg,
-    "Environmental Science Org": EnvironmentalScienceOrg,
-    "Social Interest/Activism": SocialInterestActivism,
-    "Volunteer": Volunteer,
-    "Publications": Publications,
     "Advertising Org": AdvertisingOrg,
+    "Art": ArtOrg,
+    "Business/Finance/Marketing/Economics": BusinessFinanceMarketingEconomics,
+    "Cultural Org": CulturalOrg,
+    "Environmental Science Org": EnvironmentalScienceOrg,
+    "Government Org": GovernmentOrg,
+    "Intramural Sports": IntramuralSports,
+    "Performing Arts Org": PerformingArtsOrg,
+    "Publications": Publications,
+    "Religious": ReligiousOrg,
+    "Social Interest/Activism": SocialInterestActivism,
     "Spirit Organization": SpiritOrg,
+    "STEM": STEM,
     "Student Television (TSTV/KVRX)": Student_Television,
     "Texas Wake": TexasWake
+    "Volunteer": Volunteer
 }
 
 # MUSIC ARTISTS
