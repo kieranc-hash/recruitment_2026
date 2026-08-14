@@ -867,7 +867,7 @@ music = {
     "GloRilla": GloRilla,
     "Gracie Abrams": GracieAbrams,
     "Halsey": Halsey,
-    "House Music": HouseMusic
+    "House Music": HouseMusic,
     "Hozier": Hozier,
     "Hudson Westbrook": HudsonWestbrook,
     "Imagine Dragons": ImagineDragons,
