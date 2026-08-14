@@ -1393,11 +1393,11 @@ if selected_interests:
     
     def coloring(names):
         if name in blue_names:
-            return f"<span style='color:blue'>{name}</span></b>"
+            return f"<span style='color:black'>{name}</span></b>"
         elif name in violet_names:
-            return f"<span style='color:darkviolet'>{name}</span></b>"
+            return f"<span style='color:black'>{name}</span></b>"
         elif name in gray_names:
-            return f"<span style='color:darkgray'>{name}</span></b>"
+            return f"<span style='color:black'>{name}</span></b>"
         else:
             return f"<b>{name}</b>"
 
