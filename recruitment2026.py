@@ -1199,7 +1199,7 @@ other_activities = {
     "Arts and Crafts": ArtsandCrafts,
     "Baking": Baking,
     "Boardgames": Boardgames,
-    "Blogging": Blogging
+    "Blogging": Blogging,
     "Concerts / Live Music / Music Festivals": ConcertsLiveMusic,
     "Coffee/Tea": CoffeeTea,
     "Cooking": Cooking,
