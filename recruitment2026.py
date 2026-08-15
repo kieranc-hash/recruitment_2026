@@ -509,7 +509,8 @@ WaterPolo=["Emma Woods", "Audrey Cooper", "Sarah Kester", "Katie Windell", "Hann
 Weightlifting=["Alyssa Garcia"]
 
 # HIGH SCHOOL INVOLVEMENT
-DebCot=["Elizabeth Scull", "Emma Woods", "Zeina Saghiyyah", "Victoria Olivarez", "Kaelyn Liu", "Giana Toothman"]
+DebCot=["Elizabeth Scull", "Emma Woods", "Zeina Saghiyyah", "Victoria Olivarez", "Kaelyn Liu", "Giana Toothman", "Sofie Martinez", "Olivia Asay"]
+FFAInterest=["Natalie Juarez", "Sofie Martinez", "Giana Toothman"]
 GirlScouts=["Kamryn Lowery", "Ryleigh Montgomery", "Ema Avila", "Christa Hamlin", "Molly Bogar", "Jennifer Rosado", "Giana Toothman", "Hadley Amann"]
 GovernmentDebate=["Siri Pemberton", "Drew Shelton", "Madeline Gottemoller", "Sofia Bartkoski", "Mia Cisneros", "Olivia Alvarez", "Victoria Olivarez", "Maria Sepulveda", "Charlie Stone", "Emma Schneidau", "Sophia Labazzo", "Kate Neiman", "Alexa Lira", "Katie Walsh"]
 HonorSocieties=["Kamryn Jean", "Sarah Preston", "Gaby Green", "Celeste Gutierrez", "Siri Pemberton", "Drew Shelton", "Audrey Cooper", "Annie Boeh", "Lauren Henderson", "Farrah Childs", "Neela Juarez", "Madeline Gottemoller", "Sofia Bartkoski", "Ryleigh Montgomery", "Megan Garza", "Zeina Saghiyyah", "Hasita Karthikeyan", "Emmerich Benavides", "Daisy Challoner", "Elizabeth Porter", "Angie Andersen", "Giana Toothman", "Sammi Gill", "Maria Sepulveda", "Sanya Hoskere", "Kate Belman", "Kate Neiman", "Kirra Vrzal", "Katelyn Quintanilla"]
@@ -582,6 +583,7 @@ Cooking = ["Claire Savage", "Sadie Spagnoli", "Mackenzie Short", "Brynn Groves",
 CrochetKnitting=["Lauren Henderson", "Neela Juarez", "Katie Windell", "Ava Dahlander", "Ella Pitts", "Jacqueline Olivier", "Angie Andersen", "Alexa Lira", "Delaney O’Brien", "Zoe Veliz", "Sharon Yoon"]
 Drawing=["Sophie Robins", "Drew Shelton", "Macie McKie", "Sofie Combs", "Natalie Juarez", "Tatum Samuels", "Jacqueline Olivier", "Amorie Erichsen", "Sophia Sayers", "Jennifer Rosado", "Angie Andersen", "Hadley Amann", "Kate Belman", "Katelyn Quintanilla", "Ella Garber", "Delaney O’Brien", "Zoe Veliz", "Sharon Yoon"]
 ExploringNewRestaurants=["Sophie Robins", "Claire Savage", "Sadie Spagnoli", "Mackenzie Short", "Brynn Groves", "Georgia Key", "Taylor McIlvain", "Kamryn Lowery", "Ella Leininger", "May Downey", "Anika Novak", "Audrey Cooper", "Sarah Kester", "Hazel Wells", "Katherine Blumenschein", "Mrinali Ganta", "Parker Keston", "Farrah Childs", "Neela Juarez", "Dylan Kaufman", "Madeline Gottemoller", "Katie Windell", "Ava Hodges", "Ryleigh Montgomery", "Macie McKie", "Alyssa Garcia", "Sofie Combs", "Sofia Argoti", "Zoë Westbrook", "Jazlyn Mata", "Sarah Miller", "Abrielle Gallini", "Caroline Schulze", "Buckley Turner", "Molly Bogar", "Maria Sanchez", "Bella Champion", "Hannah Reilly", "Kaitlin Black", "Emmy Pak", "Emmerich Benavides", "Arani Walton", "Amorie Erichsen", "Lily Robbins", "Genesis Martinez", "Sophia Sayers", "Skye Doughton", "Kimia Forouzesh", "Giana Toothman", "Caelyn Prochazka", "Maria Sepulveda", "Emily Bull", "Hadley Amann", "Elizabeth Perales", "Kate Flanery", "Kaelyn Liu", "Marie Jolie Day", "Sofie Arroyo", "Braeleigh Garcia", "Annabelle Judson", "Hannah Belenkiy", "Zoe Veliz", "Zoey Bustamante", "Emma Schneidau", "Annie Bryce", "Anabel Precht", "Brooke Rosenberg", "Sharon Yoon", "Sanya Hoskere", "Haylee Martin", "Rishona Mopur", "Andrea Yu", "Kate Belman", "Kate Neiman", "Katelyn Quintanilla", "Kirra Vrzal", "Paola Castillo", "Elizabeth Scull"]
+FashionInterest=["Paola Castillo", "Emma Woods", "Zoey Bustamante", "Ema Avila", "Lexie Hale", "Sophie Robins", "Lee Lloyd"]
 Formula1=["Sarah Preston", "Parker Keston", "Sofia Bartkoski", "Natalie Juarez", "Ava Dahlander", "Tatum Samuels", "Hasita Karthikeyan", "Hannah Dollinger", "Giada Scaramuzza", "Maria Sanchez", "Emmerich Benavides", "Sanya Hoskere", "Zoey Bustamante", "Marie Jolie Day", "Sofie Arroyo"]
 Government=["Sophie Robins", "Sadie Spagnoli", "Cate Coleman", "Emma Woods", "Siri Pemberton", "Kamryn Lowery", "Emmy Pak", "Drew Shelton", "Madeline Gottemoller", "Mrinali Ganta", "Sofia Bartkoski", "Ella Dillinger", "Zoë Westbrook", "Zeina Saghiyyah", "Hasita Karthikeyan", "Caroline Schulze", "Anabel Precht", "Charlie Stone", "Katie Walsh", "Lily Robbins", "Arani Walton", "Sharon Yoon", "Rishona Mopur", "Andrea Yu", "Sanya Hoskere"]
 GraphicDesignInterest=["Emmy Pak", "Sasha Pittsford", "Andrea Yu", "Annabelle Judson", "Natalie Juarez", "Ella Dillinger", "Tatum Samuels", "Olivia Alvarez", "Marie Jolie Day", "Zoey Bustamante", "Abrielle Gallini", "Brooke Rosenberg", "Sharon Yoon", "Kate Belman", "Katelyn Quintanilla"]
@@ -622,8 +624,9 @@ TuftsUniversity = ["Addison Starr"]
 UTSA = ["Ema Avila", "Maria Sanchez", "Kassidy Bragg", "Alexa Lira", "Emma Schneidau", "Paola Castillo"]
 UTRGV = ["Mia Cisneros"]
 TrinityUniversity = ["Lily Robbins"]
+AbroadStudents=["Olivia Alvarez", "Addison Starr", "Ella Garber", "Katie Corbin", "Morgan Gaitz", "Anika Novak", "Daisy Challoner", "Jennifer Rosado", "Zeina Saghiyyah", "Josie Daik", "Sophie Robins", "Ava Dahlander", "Hannah Belenkiy"]
 
-
+                
 # ==== MAPPING INTEREST NAME TO RECRUITER NAME LISTS ===========================================================================================================
 majors = {
         "Accounting": Accounting,
@@ -1137,6 +1140,7 @@ sports = {
 
 clubs = {
     "Debutant / Cotillion": DebCot,
+    "FFA": FFAInterest,
     "Girl Scouts": GirlScouts,
     "Government / Debate / Model UN": GovernmentDebate,
     "Honor Societies": HonorSocieties,
@@ -1209,6 +1213,7 @@ other_activities = {
     "Drawing": Drawing,
     "Exploring Austin": ExploringAustin,
     "Exploring New Restaurants": ExploringNewRestaurants,
+    "Fashion": FashionInterest
     "Formula 1": Formula1,
     "Government": Government,
     "Graphic Design": GraphicDesignInterest,
@@ -1246,6 +1251,7 @@ other_activities = {
 
 transfers = {
     "Transfer Student": transfer,
+    "Study Abroad": AbroadStudents,
     "UTA": UTA,
     "Texas Tech": TexasTech,
     "UTEP": UTEP,
