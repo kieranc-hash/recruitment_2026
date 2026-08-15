@@ -1213,7 +1213,7 @@ other_activities = {
     "Drawing": Drawing,
     "Exploring Austin": ExploringAustin,
     "Exploring New Restaurants": ExploringNewRestaurants,
-    "Fashion": FashionInterest
+    "Fashion": FashionInterest,
     "Formula 1": Formula1,
     "Government": Government,
     "Graphic Design": GraphicDesignInterest,
